@@ -1,6 +1,5 @@
 package evgenyt.gtacars;
 
-import android.app.Activity;
 import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.drawable.Drawable;
@@ -32,6 +31,12 @@ public class ResourcesLoader {
         return loader;
     }
 
+    public static String getImgName(String item) {
+        String result = item.toLowerCase();
+        result = result.replaceAll(" ", "_");
+        return result;
+    }
+
     /** @return String array from string-array object in strings.xml */
     public ArrayList<String> getStringArray(String resourceName) {
         ArrayList<String> arrayList = new ArrayList<>();
@@ -44,21 +49,21 @@ public class ResourcesLoader {
     }
 
     /** Returns image drawable object by image name */
-    public Drawable getImgByName(String imgName, Activity activity) {
+    public Drawable getImgByName(String imgName) {
         if (imgName.equals("")) {
             String uri = "@android:drawable/list_selector_background";
             int imageResource = resources.getIdentifier(uri, null,
-                    activity.getPackageName());
+                    packageName);
             return resources.getDrawable(imageResource);
         } else {
             String uri = "@drawable/" + imgName;
             int imageResource = resources.getIdentifier(uri, null,
-                    activity.getPackageName());
+                    packageName);
             if (imageResource > 0) {
                 return  resources.getDrawable(imageResource);
             }
             else {
-                return getImgByName("", activity);
+                return getImgByName("");
             }
         }
     }
