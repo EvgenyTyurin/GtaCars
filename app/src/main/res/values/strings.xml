@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GtaCars</string>
+    <string-array name='cars'>
+        <item>Dinka Akuma</item>
+        <item>Lampadati Felon</item>
+    </string-array>
+</resources>
