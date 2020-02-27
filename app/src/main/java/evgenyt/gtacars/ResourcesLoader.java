@@ -34,6 +34,7 @@ public class ResourcesLoader {
     public static String getImgName(String item) {
         String result = item.toLowerCase();
         result = result.replaceAll(" ", "_");
+        result = result.replaceAll("-", "_");
         return result;
     }
 

@@ -3,5 +3,25 @@
     <string-array name='car_list'>
         <item>Dinka Akuma</item>
         <item>Lampadati Felon</item>
+        <item>Dinka Double-T</item>
+        <item>Dinka Enduro</item>
+        <item>LCC Avarus</item>
+        <item>Nagasaki BF400</item>
+        <item>Nagasaki Carbon RS</item>
+        <item>Nagasaki Chimera</item>
+        <item>Pegassi Bati 801</item>
+        <item>Pegassi Bati 801RR</item>
+        <item>Pegassi Esskey</item>
+        <item>Pegassi Faggio</item>
+        <item>Pegassi Faggio Mod</item>
+        <item>Pegassi Faggio Sport</item>
+        <item>Pegassi FCR 1000</item>
+        <item>Pegassi FCR 1000</item>
+        <item>Principe Diabolus</item>
+        <item>Principe Diabolus Custom</item>
+        <item>Shitzu Defiler</item>
+        <item>Western Bagger</item>
+        <item>Western Cliffhanger</item>
+        <item>Western Daemon</item>
     </string-array>
 </resources>
