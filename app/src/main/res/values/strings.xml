@@ -1,27 +1,681 @@
 <resources>
     <string name="app_name">GtaCars</string>
     <string-array name='car_list'>
-        <item>Dinka Akuma</item>
-        <item>Lampadati Felon</item>
-        <item>Dinka Double-T</item>
-        <item>Dinka Enduro</item>
-        <item>LCC Avarus</item>
-        <item>Nagasaki BF400</item>
-        <item>Nagasaki Carbon RS</item>
-        <item>Nagasaki Chimera</item>
-        <item>Pegassi Bati 801</item>
-        <item>Pegassi Bati 801RR</item>
-        <item>Pegassi Esskey</item>
-        <item>Pegassi Faggio</item>
-        <item>Pegassi Faggio Mod</item>
-        <item>Pegassi Faggio Sport</item>
-        <item>Pegassi FCR 1000</item>
-        <item>Pegassi FCR 1000</item>
-        <item>Principe Diabolus</item>
-        <item>Principe Diabolus Custom</item>
-        <item>Shitzu Defiler</item>
-        <item>Western Bagger</item>
-        <item>Western Cliffhanger</item>
-        <item>Western Daemon</item>
+        <item>Akuma</item>
+        <item>Apocalypse Deathbike</item>
+        <item>Avarus</item>
+        <item>Bagger</item>
+        <item>Bati 801</item>
+        <item>Bati 801RR</item>
+        <item>BF400</item>
+        <item>Carbon RS</item>
+        <item>Chimera</item>
+        <item>Cliffhanger</item>
+        <item>Daemon</item>
+        <item>Daemon</item>
+        <item>Defiler</item>
+        <item>Diabolus</item>
+        <item>Diabolus Custom</item>
+        <item>Double T</item>
+        <item>Enduro</item>
+        <item>Esskey</item>
+        <item>Faggio</item>
+        <item>Faggio Mod</item>
+        <item>Faggio Sport</item>
+        <item>FCR 1000</item>
+        <item>FCR 1000 Custom</item>
+        <item>Future Shock Deathbike</item>
+        <item>Gargoyle</item>
+        <item>Hakuchou</item>
+        <item>Hakuchou Drag</item>
+        <item>Hexer</item>
+        <item>Innovation</item>
+        <item>Lectro</item>
+        <item>Manchez</item>
+        <item>Nemesis</item>
+        <item>Nightblade</item>
+        <item>Nightmare Deathbike</item>
+        <item>Oppressor</item>
+        <item>Oppressor Mk II</item>
+        <item>PCJ 600</item>
+        <item>Rampant Rocket</item>
+        <item>Rat Bike</item>
+        <item>Ruffian</item>
+        <item>Sanchez</item>
+        <item>Sanctus</item>
+        <item>Shotaro</item>
+        <item>Sovereign</item>
+        <item>Stryder</item>
+        <item>Thrust</item>
+        <item>Vader</item>
+        <item>Vindicator</item>
+        <item>Vortex (motorcycle)</item>
+        <item>Wolfsbane</item>
+        <item>Zombie Bobber</item>
+        <item>Zombie Chopper</item>
+        <item>Apocalypse Issi</item>
+        <item>Asbo</item>
+        <item>Blista</item>
+        <item>Blista Kanjo</item>
+        <item>Brioso R/A</item>
+        <item>Dilettante</item>
+        <item>Dilettante</item>
+        <item>Future Shock Issi</item>
+        <item>Issi</item>
+        <item>Issi Classic</item>
+        <item>Nightmare Issi</item>
+        <item>Panto</item>
+        <item>Prairie</item>
+        <item>Rhapsody</item>
+        <item>Cognoscenti Cabrio</item>
+        <item>Exemplar</item>
+        <item>F620</item>
+        <item>Felon</item>
+        <item>Felon GT</item>
+        <item>Jackal</item>
+        <item>Oracle</item>
+        <item>Oracle XS</item>
+        <item>Sentinel</item>
+        <item>Sentinel XS</item>
+        <item>Windsor</item>
+        <item>Windsor Drop</item>
+        <item>Zion</item>
+        <item>Zion Cabrio</item>
+        <item>Asea</item>
+        <item>Asea</item>
+        <item>Asterope</item>
+        <item>Cognoscenti</item>
+        <item>Cognoscenti (Armored)</item>
+        <item>Cognoscenti 55</item>
+        <item>Cognoscenti 55 (Armored)</item>
+        <item>Emperor (car)</item>
+        <item>Emperor (car)</item>
+        <item>Emperor (car)</item>
+        <item>Fugitive</item>
+        <item>Glendale</item>
+        <item>Ingot</item>
+        <item>Intruder</item>
+        <item>Premier</item>
+        <item>Primo</item>
+        <item>Primo Custom</item>
+        <item>Regina</item>
+        <item>Romero Hearse</item>
+        <item>Schafter</item>
+        <item>Schafter LWB (Armored)</item>
+        <item>Schafter V12 (Armored)</item>
+        <item>Stafford</item>
+        <item>Stanier</item>
+        <item>Stratum</item>
+        <item>Stretch</item>
+        <item>Super Diamond</item>
+        <item>Surge</item>
+        <item>Tailgater</item>
+        <item>Turreted Limo</item>
+        <item>Warrener</item>
+        <item>Washington</item>
+        <item>8F Drafter</item>
+        <item>9F</item>
+        <item>9F Cabrio</item>
+        <item>Alpha</item>
+        <item>Apocalypse ZR380</item>
+        <item>Banshee</item>
+        <item>Bestia GTS</item>
+        <item>Blista Compact</item>
+        <item>Buffalo</item>
+        <item>Buffalo S</item>
+        <item>Carbonizzare</item>
+        <item>Comet</item>
+        <item>Comet Retro Custom</item>
+        <item>Comet Safari</item>
+        <item>Comet SR</item>
+        <item>Coquette</item>
+        <item>Drift Tampa</item>
+        <item>Elegy RH8</item>
+        <item>Elegy Retro Custom</item>
+        <item>Feltzer</item>
+        <item>Flash GT</item>
+        <item>Furore GT</item>
+        <item>Fusilade</item>
+        <item>Future Shock ZR380</item>
+        <item>Futo</item>
+        <item>GB200</item>
+        <item>Go Go Monkey Blista</item>
+        <item>Hotring Sabre</item>
+        <item>Imorgon</item>
+        <item>Itali GTO</item>
+        <item>Issi Sport</item>
+        <item>Jester</item>
+        <item>Jester (Racecar)</item>
+        <item>Jester Classic</item>
+        <item>Jugular</item>
+        <item>Khamelion</item>
+        <item>Kuruma</item>
+        <item>Kuruma (Armored)</item>
+        <item>Locust</item>
+        <item>Lynx</item>
+        <item>Massacro</item>
+        <item>Massacro (Racecar)</item>
+        <item>Neo</item>
+        <item>Neon</item>
+        <item>Nightmare ZR380</item>
+        <item>Omnis</item>
+        <item>Paragon R</item>
+        <item>Paragon R (Armored)</item>
+        <item>Pariah</item>
+        <item>Penumbra</item>
+        <item>Raiden</item>
+        <item>Rapid GT</item>
+        <item>Rapid GT</item>
+        <item>Raptor</item>
+        <item>Revolter</item>
+        <item>Ruston</item>
+        <item>Schafter LWB</item>
+        <item>Schafter V12</item>
+        <item>Schlagen GT</item>
+        <item>Schwartzer</item>
+        <item>Sentinel Classic</item>
+        <item>Seven-70</item>
+        <item>Specter</item>
+        <item>Specter Custom</item>
+        <item>Sprunk Buffalo</item>
+        <item>Streiter</item>
+        <item>Sugoi</item>
+        <item>Sultan</item>
+        <item>Sultan Classic</item>
+        <item>Surano</item>
+        <item>Tropos Rallye</item>
+        <item>Verlierer</item>
+        <item>V-STR</item>
+        <item>190z</item>
+        <item>Ardent</item>
+        <item>Casco</item>
+        <item>Cheburek</item>
+        <item>Cheetah Classic</item>
+        <item>Coquette Classic</item>
+        <item>Deluxo</item>
+        <item>Dynasty</item>
+        <item>Fagaloa</item>
+        <item>Fränken Stange</item>
+        <item>GT500</item>
+        <item>Infernus Classic</item>
+        <item>JB 700</item>
+        <item>JB 700W</item>
+        <item>Komoda</item>
+        <item>Mamba</item>
+        <item>Manana</item>
+        <item>Michelli GT</item>
+        <item>Monroe</item>
+        <item>Nebula Turbo</item>
+        <item>Peyote</item>
+        <item>Pigalle</item>
+        <item>Rapid GT Classic</item>
+        <item>Retinue</item>
+        <item>Retinue Mk II</item>
+        <item>Roosevelt</item>
+        <item>Roosevelt Valor</item>
+        <item>Savestra</item>
+        <item>Stinger</item>
+        <item>Stinger GT</item>
+        <item>Stirling GT</item>
+        <item>Stromberg (car)</item>
+        <item>Swinger</item>
+        <item>Torero</item>
+        <item>Tornado</item>
+        <item>Tornado</item>
+        <item>Tornado</item>
+        <item>Tornado</item>
+        <item>Tornado Custom</item>
+        <item>Tornado Rat Rod</item>
+        <item>Turismo Classic</item>
+        <item>Viseris</item>
+        <item>Zion Classic</item>
+        <item>Z-Type</item>
+        <item>811</item>
+        <item>Adder</item>
+        <item>Autarch</item>
+        <item>Banshee 900R</item>
+        <item>Bullet</item>
+        <item>Cheetah</item>
+        <item>Cyclone</item>
+        <item>Deveste Eight</item>
+        <item>Emerus</item>
+        <item>Entity XF</item>
+        <item>Entity XXR</item>
+        <item>ETR1</item>
+        <item>FMJ</item>
+        <item>Furia</item>
+        <item>GP1</item>
+        <item>Infernus</item>
+        <item>Itali GTB</item>
+        <item>Itali GTB Custom</item>
+        <item>Krieger</item>
+        <item>Nero</item>
+        <item>Nero Custom</item>
+        <item>Osiris</item>
+        <item>Penetrator</item>
+        <item>RE-7B</item>
+        <item>Reaper</item>
+        <item>Rocket Voltic</item>
+        <item>S80RR</item>
+        <item>SC1</item>
+        <item>Scramjet</item>
+        <item>Sultan RS</item>
+        <item>T20</item>
+        <item>Taipan</item>
+        <item>Tempesta</item>
+        <item>Tezeract</item>
+        <item>Thrax</item>
+        <item>Turismo R</item>
+        <item>Tyrant</item>
+        <item>Tyrus</item>
+        <item>Vacca</item>
+        <item>Vagner</item>
+        <item>Visione</item>
+        <item>Vigilante (car)</item>
+        <item>Voltic</item>
+        <item>XA-21</item>
+        <item>X80 Proto</item>
+        <item>Zentorno</item>
+        <item>Zorrusso</item>
+        <item>Apocalypse Dominator</item>
+        <item>Apocalypse Impaler</item>
+        <item>Apocalypse Imperator</item>
+        <item>Apocalypse Slamvan</item>
+        <item>Blade (car)</item>
+        <item>Buccaneer</item>
+        <item>Buccaneer Custom</item>
+        <item>Burger Shot Stallion</item>
+        <item>Chino</item>
+        <item>Chino Custom</item>
+        <item>Clique</item>
+        <item>Coquette BlackFin</item>
+        <item>Deviant</item>
+        <item>Dominator</item>
+        <item>Dominator GTX</item>
+        <item>Drift Yosemite</item>
+        <item>Duke O'Death</item>
+        <item>Dukes (car)</item>
+        <item>Gauntlet</item>
+        <item>Gauntlet Classic</item>
+        <item>Gauntlet Hellfire</item>
+        <item>Hermes</item>
+        <item>Hotknife</item>
+        <item>Hustler</item>
+        <item>Impaler</item>
+        <item>Ellie</item>
+        <item>Faction</item>
+        <item>Faction Custom</item>
+        <item>Faction Custom Donk</item>
+        <item>Future Shock Dominator</item>
+        <item>Future Shock Impaler</item>
+        <item>Future Shock Imperator</item>
+        <item>Future Shock Slamvan</item>
+        <item>Lost Slamvan</item>
+        <item>Lurcher</item>
+        <item>Moonbeam</item>
+        <item>Moonbeam Custom</item>
+        <item>Nightmare Dominator</item>
+        <item>Nightmare Impaler</item>
+        <item>Nightmare Imperator</item>
+        <item>Nightmare Slamvan</item>
+        <item>Nightshade</item>
+        <item>Peyote Gasser</item>
+        <item>Phoenix</item>
+        <item>Picador</item>
+        <item>Pißwasser Dominator</item>
+        <item>Rat-Loader</item>
+        <item>Rat-Truck</item>
+        <item>Redwood Gauntlet</item>
+        <item>Ruiner</item>
+        <item>Ruiner</item>
+        <item>Ruiner 2000</item>
+        <item>Sabre Turbo</item>
+        <item>Sabre Turbo Custom</item>
+        <item>Slamvan</item>
+        <item>Slamvan Custom</item>
+        <item>Stallion</item>
+        <item>Tampa</item>
+        <item>Tulip</item>
+        <item>Vamos</item>
+        <item>Virgo</item>
+        <item>Virgo Classic</item>
+        <item>Virgo Classic Custom</item>
+        <item>Vigero</item>
+        <item>Voodoo</item>
+        <item>Voodoo Custom</item>
+        <item>Weaponized Tampa</item>
+        <item>Yosemite</item>
+        <item>Apocalypse Bruiser</item>
+        <item>Apocalypse Brutus</item>
+        <item>Apocalypse Sasquatch</item>
+        <item>Bifta</item>
+        <item>Blazer</item>
+        <item>Blazer Aqua</item>
+        <item>Blazer Lifeguard</item>
+        <item>Bodhi</item>
+        <item>Brawler</item>
+        <item>Caracara</item>
+        <item>Caracara 4x4</item>
+        <item>Desert Raid</item>
+        <item>Dubsta 6x6</item>
+        <item>Dune Buggy</item>
+        <item>Dune FAV</item>
+        <item>Duneloader</item>
+        <item>Everon</item>
+        <item>Freecrawler</item>
+        <item>Future Shock Bruiser</item>
+        <item>Future Shock Brutus</item>
+        <item>Future Shock Sasquatch</item>
+        <item>Hellion</item>
+        <item>Hot Rod Blazer</item>
+        <item>Injection</item>
+        <item>Insurgent</item>
+        <item>Insurgent Pick-Up</item>
+        <item>Insurgent Pick-Up Custom</item>
+        <item>Kalahari</item>
+        <item>Kamacho</item>
+        <item>Marshall</item>
+        <item>Menacer</item>
+        <item>Merryweather Mesa</item>
+        <item>Nightmare Bruiser</item>
+        <item>Nightmare Brutus</item>
+        <item>Nightmare Sasquatch</item>
+        <item>Nightshark</item>
+        <item>Outlaw</item>
+        <item>Ramp Buggy</item>
+        <item>Ramp Buggy</item>
+        <item>Rancher XL</item>
+        <item>Rancher XL</item>
+        <item>RC Bandito</item>
+        <item>Rebel</item>
+        <item>Riata</item>
+        <item>Rusty Rebel</item>
+        <item>Sandking SWB</item>
+        <item>Sandking XL</item>
+        <item>Space Docker</item>
+        <item>Street Blazer</item>
+        <item>Technical</item>
+        <item>Technical Aqua</item>
+        <item>Technical Custom</item>
+        <item>The Liberator</item>
+        <item>Trophy Truck</item>
+        <item>Vagrant</item>
+        <item>Zhaba</item>
+        <item>Baller</item>
+        <item>Baller</item>
+        <item>Baller LE</item>
+        <item>Baller LE (Armored)</item>
+        <item>Baller LE LWB</item>
+        <item>Baller LE LWB (Armored)</item>
+        <item>BeeJay XL</item>
+        <item>Cavalcade</item>
+        <item>Cavalcade</item>
+        <item>Contender</item>
+        <item>Dubsta</item>
+        <item>Dubsta</item>
+        <item>FQ 2</item>
+        <item>Granger</item>
+        <item>Gresley</item>
+        <item>Habanero</item>
+        <item>Huntley S</item>
+        <item>Landstalker</item>
+        <item>Mesa</item>
+        <item>Mesa</item>
+        <item>Novak</item>
+        <item>Patriot</item>
+        <item>Patriot Stretch</item>
+        <item>Radius</item>
+        <item>Rebla GTS</item>
+        <item>Rocoto</item>
+        <item>Seminole</item>
+        <item>Serrano</item>
+        <item>Toros</item>
+        <item>XLS</item>
+        <item>XLS (Armored)</item>
+        <item>Armored Boxville</item>
+        <item>Bison</item>
+        <item>Bison</item>
+        <item>Bison</item>
+        <item>Bobcat XL</item>
+        <item>Boxville</item>
+        <item>Boxville</item>
+        <item>Boxville</item>
+        <item>Boxville</item>
+        <item>Burrito</item>
+        <item>Bugstars Burrito</item>
+        <item>Burrito</item>
+        <item>Burrito</item>
+        <item>Burrito</item>
+        <item>Camper</item>
+        <item>Clown Van</item>
+        <item>Gang Burrito</item>
+        <item>Gang Burrito</item>
+        <item>Journey</item>
+        <item>Minivan</item>
+        <item>Minivan Custom</item>
+        <item>Paradise</item>
+        <item>Pony</item>
+        <item>Pony</item>
+        <item>Rumpo</item>
+        <item>Rumpo</item>
+        <item>Rumpo Custom</item>
+        <item>Speedo</item>
+        <item>Speedo Custom</item>
+        <item>Surfer</item>
+        <item>Surfer</item>
+        <item>Taco Van</item>
+        <item>Youga</item>
+        <item>Youga Classic</item>
+        <item>Cutter</item>
+        <item>Dock Handler</item>
+        <item>Dozer</item>
+        <item>Dump</item>
+        <item>Flatbed</item>
+        <item>Guardian</item>
+        <item>Mixer</item>
+        <item>Mixer</item>
+        <item>Rubble</item>
+        <item>Tipper</item>
+        <item>Tipper</item>
+        <item>Apocalypse Cerberus</item>
+        <item>Benson</item>
+        <item>Biff</item>
+        <item>Future Shock Cerberus</item>
+        <item>Hauler</item>
+        <item>Hauler Custom</item>
+        <item>Mule</item>
+        <item>Mule</item>
+        <item>Mule</item>
+        <item>Mule Custom</item>
+        <item>Nightmare Cerberus</item>
+        <item>Packer</item>
+        <item>Phantom</item>
+        <item>Phantom Custom</item>
+        <item>Phantom Wedge</item>
+        <item>Pounder</item>
+        <item>Pounder Custom</item>
+        <item>Stockade</item>
+        <item>Stockade</item>
+        <item>Terrorbyte</item>
+        <item>Airtug</item>
+        <item>Caddy</item>
+        <item>Caddy</item>
+        <item>Caddy</item>
+        <item>Docktug</item>
+        <item>Fieldmaster</item>
+        <item>Fieldmaster</item>
+        <item>Forklift</item>
+        <item>Lawn Mower</item>
+        <item>Ripley</item>
+        <item>Sadler</item>
+        <item>Sadler</item>
+        <item>Scrap Truck</item>
+        <item>Towtruck (truck)</item>
+        <item>Tow Truck</item>
+        <item>Tractor</item>
+        <item>Utility Truck</item>
+        <item>Utility Truck</item>
+        <item>Utility Van</item>
+        <item>Army Trailer</item>
+        <item>Army Trailer</item>
+        <item>Army Trailer</item>
+        <item>Army Trailer (tanker)</item>
+        <item>Baletrailer</item>
+        <item>Boat Trailer</item>
+        <item>Dock Trailer</item>
+        <item>Graintrailer</item>
+        <item>Mobile Operations Center</item>
+        <item>Ortega's trailer</item>
+        <item>Trailer (boat)</item>
+        <item>Trailer (car carrier)</item>
+        <item>Trailer (car carrier)</item>
+        <item>Trailer (flatbed)</item>
+        <item>Trailer (large)</item>
+        <item>Trailer (large)</item>
+        <item>Trailer (large)</item>
+        <item>Trailer (large)</item>
+        <item>Trailer (large)</item>
+        <item>Trailer (logs)</item>
+        <item>Trailer (rake)</item>
+        <item>Trailer (small)</item>
+        <item>Trailer (tanker)</item>
+        <item>Trailer (tanker)</item>
+        <item>Anti-Aircraft Trailer</item>
+        <item>Apocalypse Scarab</item>
+        <item>APC</item>
+        <item>Barracks</item>
+        <item>Barracks</item>
+        <item>Barracks Semi</item>
+        <item>Barrage</item>
+        <item>Chernobog</item>
+        <item>Crusader</item>
+        <item>Future Shock Scarab</item>
+        <item>Half-track</item>
+        <item>Invade and Persuade Tank</item>
+        <item>Nightmare Scarab</item>
+        <item>Rhino Tank</item>
+        <item>Thruster</item>
+        <item>TM-02 Khanjali</item>
+        <item>Ambulance</item>
+        <item>FIB Buffalo</item>
+        <item>FIB Granger</item>
+        <item>Fire Truck</item>
+        <item>Lifeguard</item>
+        <item>Park Ranger</item>
+        <item>Police Bike</item>
+        <item>Police Interceptor</item>
+        <item>Police Buffalo</item>
+        <item>Police Cruiser</item>
+        <item>Police Maverick</item>
+        <item>Police Rancher</item>
+        <item>Police Riot</item>
+        <item>Police Roadcruiser</item>
+        <item>Police Transporter</item>
+        <item>Prison Bus</item>
+        <item>Predator</item>
+        <item>RCV</item>
+        <item>Sheriff Cruiser</item>
+        <item>Sheriff SUV</item>
+        <item>Unmarked Cruiser</item>
+        <item>Airport Bus</item>
+        <item>Brickade</item>
+        <item>Bus</item>
+        <item>Dashound</item>
+        <item>Dune</item>
+        <item>Festival Bus</item>
+        <item>Rental Shuttle Bus</item>
+        <item>Taxi</item>
+        <item>Tourbus</item>
+        <item>Trashmaster</item>
+        <item>Trashmaster</item>
+        <item>Wastelander</item>
+        <item>BMX</item>
+        <item>Cruiser (bike)</item>
+        <item>Endurex Race Bike</item>
+        <item>Fixter</item>
+        <item>Scorcher</item>
+        <item>Tri-Cycles Race Bike</item>
+        <item>Whippet Race Bike</item>
+        <item>Alpha-Z1</item>
+        <item>Atomic Blimp</item>
+        <item>Avenger (plane)</item>
+        <item>Avenger (plane)</item>
+        <item>B-11 Strikeforce</item>
+        <item>Besra</item>
+        <item>Blimp</item>
+        <item>Cargo Plane</item>
+        <item>Cuban 800</item>
+        <item>Dodo</item>
+        <item>Duster</item>
+        <item>Howard NX-25</item>
+        <item>Hydra</item>
+        <item>Jet</item>
+        <item>LF-22 Starling</item>
+        <item>Luxor</item>
+        <item>Luxor Deluxe</item>
+        <item>Mallard</item>
+        <item>Mammatus</item>
+        <item>Miljet</item>
+        <item>Mogul</item>
+        <item>Nimbus</item>
+        <item>P-45 Nokota</item>
+        <item>P-996 LAZER</item>
+        <item>Pyro</item>
+        <item>RM-10 Bombushka</item>
+        <item>Rogue (plane)</item>
+        <item>Seabreeze</item>
+        <item>Shamal</item>
+        <item>Titan</item>
+        <item>Tula</item>
+        <item>Ultralight</item>
+        <item>V-65 Molotok</item>
+        <item>Velum</item>
+        <item>Velum 5-Seater</item>
+        <item>Vestra</item>
+        <item>Volatol</item>
+        <item>Xero Blimp</item>
+        <item>Akula</item>
+        <item>Annihilator</item>
+        <item>Buzzard</item>
+        <item>Buzzard Attack Chopper</item>
+        <item>Cargobob</item>
+        <item>Cargobob</item>
+        <item>Cargobob</item>
+        <item>Cargobob</item>
+        <item>FH-1 Hunter</item>
+        <item>Frogger</item>
+        <item>Frogger</item>
+        <item>Havok</item>
+        <item>Maverick</item>
+        <item>Savage</item>
+        <item>Sea Sparrow</item>
+        <item>Skylift</item>
+        <item>SuperVolito</item>
+        <item>SuperVolito Carbon</item>
+        <item>Swift</item>
+        <item>Swift Deluxe</item>
+        <item>Valkyrie</item>
+        <item>Valkyrie MOD.0</item>
+        <item>Volatus</item>
+        <item>Dinghy</item>
+        <item>Dinghy</item>
+        <item>Dinghy</item>
+        <item>Dinghy</item>
+        <item>Jetmax</item>
+        <item>Kraken</item>
+        <item>Marquis</item>
+        <item>Seashark</item>
+        <item>Seashark</item>
+        <item>Seashark</item>
+        <item>Speeder (boat)</item>
+        <item>Speeder (boat)</item>
+        <item>Squalo</item>
+        <item>Submersible</item>
+        <item>Suntrap</item>
+        <item>Toro</item>
+        <item>Toro</item>
+        <item>Tropic</item>
+        <item>Tropic</item>
+        <item>Tug (boat)</item>
     </string-array>
 </resources>
