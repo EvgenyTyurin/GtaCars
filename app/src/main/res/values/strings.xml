@@ -1,681 +1,624 @@
 <resources>
     <string name="app_name">GtaCars</string>
     <string-array name='car_list'>
-        <item>Akuma</item>
-        <item>Apocalypse Deathbike</item>
-        <item>Avarus</item>
-        <item>Bagger</item>
-        <item>Bati 801</item>
-        <item>Bati 801RR</item>
-        <item>BF400</item>
-        <item>Carbon RS</item>
-        <item>Chimera</item>
-        <item>Cliffhanger</item>
-        <item>Daemon</item>
-        <item>Daemon</item>
-        <item>Defiler</item>
-        <item>Diabolus</item>
-        <item>Diabolus Custom</item>
-        <item>Double T</item>
-        <item>Enduro</item>
-        <item>Esskey</item>
-        <item>Faggio</item>
-        <item>Faggio Mod</item>
-        <item>Faggio Sport</item>
-        <item>FCR 1000</item>
-        <item>FCR 1000 Custom</item>
-        <item>Future Shock Deathbike</item>
-        <item>Gargoyle</item>
-        <item>Hakuchou</item>
-        <item>Hakuchou Drag</item>
-        <item>Hexer</item>
-        <item>Innovation</item>
-        <item>Lectro</item>
-        <item>Manchez</item>
-        <item>Nemesis</item>
-        <item>Nightblade</item>
-        <item>Nightmare Deathbike</item>
-        <item>Oppressor</item>
-        <item>Oppressor Mk II</item>
-        <item>PCJ 600</item>
-        <item>Rampant Rocket</item>
-        <item>Rat Bike</item>
-        <item>Ruffian</item>
-        <item>Sanchez</item>
-        <item>Sanctus</item>
-        <item>Shotaro</item>
-        <item>Sovereign</item>
-        <item>Stryder</item>
-        <item>Thrust</item>
-        <item>Vader</item>
-        <item>Vindicator</item>
-        <item>Vortex (motorcycle)</item>
-        <item>Wolfsbane</item>
-        <item>Zombie Bobber</item>
-        <item>Zombie Chopper</item>
-        <item>Apocalypse Issi</item>
-        <item>Asbo</item>
-        <item>Blista</item>
-        <item>Blista Kanjo</item>
-        <item>Brioso R/A</item>
-        <item>Dilettante</item>
-        <item>Dilettante</item>
-        <item>Future Shock Issi</item>
-        <item>Issi</item>
-        <item>Issi Classic</item>
-        <item>Nightmare Issi</item>
-        <item>Panto</item>
-        <item>Prairie</item>
-        <item>Rhapsody</item>
-        <item>Cognoscenti Cabrio</item>
-        <item>Exemplar</item>
-        <item>F620</item>
-        <item>Felon</item>
-        <item>Felon GT</item>
-        <item>Jackal</item>
-        <item>Oracle</item>
-        <item>Oracle XS</item>
-        <item>Sentinel</item>
-        <item>Sentinel XS</item>
-        <item>Windsor</item>
-        <item>Windsor Drop</item>
-        <item>Zion</item>
-        <item>Zion Cabrio</item>
-        <item>Asea</item>
-        <item>Asea</item>
-        <item>Asterope</item>
-        <item>Cognoscenti</item>
-        <item>Cognoscenti (Armored)</item>
-        <item>Cognoscenti 55</item>
-        <item>Cognoscenti 55 (Armored)</item>
-        <item>Emperor (car)</item>
-        <item>Emperor (car)</item>
-        <item>Emperor (car)</item>
-        <item>Fugitive</item>
-        <item>Glendale</item>
-        <item>Ingot</item>
-        <item>Intruder</item>
-        <item>Premier</item>
-        <item>Primo</item>
-        <item>Primo Custom</item>
-        <item>Regina</item>
-        <item>Romero Hearse</item>
-        <item>Schafter</item>
-        <item>Schafter LWB (Armored)</item>
-        <item>Schafter V12 (Armored)</item>
-        <item>Stafford</item>
-        <item>Stanier</item>
-        <item>Stratum</item>
-        <item>Stretch</item>
-        <item>Super Diamond</item>
-        <item>Surge</item>
-        <item>Tailgater</item>
-        <item>Turreted Limo</item>
-        <item>Warrener</item>
-        <item>Washington</item>
-        <item>8F Drafter</item>
-        <item>9F</item>
-        <item>9F Cabrio</item>
-        <item>Alpha</item>
-        <item>Apocalypse ZR380</item>
-        <item>Banshee</item>
-        <item>Bestia GTS</item>
-        <item>Blista Compact</item>
-        <item>Buffalo</item>
-        <item>Buffalo S</item>
-        <item>Carbonizzare</item>
-        <item>Comet</item>
-        <item>Comet Retro Custom</item>
-        <item>Comet Safari</item>
-        <item>Comet SR</item>
-        <item>Coquette</item>
-        <item>Drift Tampa</item>
-        <item>Elegy RH8</item>
-        <item>Elegy Retro Custom</item>
-        <item>Feltzer</item>
-        <item>Flash GT</item>
-        <item>Furore GT</item>
-        <item>Fusilade</item>
-        <item>Future Shock ZR380</item>
-        <item>Futo</item>
-        <item>GB200</item>
-        <item>Go Go Monkey Blista</item>
-        <item>Hotring Sabre</item>
-        <item>Imorgon</item>
-        <item>Itali GTO</item>
-        <item>Issi Sport</item>
-        <item>Jester</item>
-        <item>Jester (Racecar)</item>
-        <item>Jester Classic</item>
-        <item>Jugular</item>
-        <item>Khamelion</item>
-        <item>Kuruma</item>
-        <item>Kuruma (Armored)</item>
-        <item>Locust</item>
-        <item>Lynx</item>
-        <item>Massacro</item>
-        <item>Massacro (Racecar)</item>
-        <item>Neo</item>
-        <item>Neon</item>
-        <item>Nightmare ZR380</item>
-        <item>Omnis</item>
-        <item>Paragon R</item>
-        <item>Paragon R (Armored)</item>
-        <item>Pariah</item>
-        <item>Penumbra</item>
-        <item>Raiden</item>
-        <item>Rapid GT</item>
-        <item>Rapid GT</item>
-        <item>Raptor</item>
-        <item>Revolter</item>
-        <item>Ruston</item>
-        <item>Schafter LWB</item>
-        <item>Schafter V12</item>
-        <item>Schlagen GT</item>
-        <item>Schwartzer</item>
-        <item>Sentinel Classic</item>
-        <item>Seven-70</item>
-        <item>Specter</item>
-        <item>Specter Custom</item>
-        <item>Sprunk Buffalo</item>
-        <item>Streiter</item>
-        <item>Sugoi</item>
-        <item>Sultan</item>
-        <item>Sultan Classic</item>
-        <item>Surano</item>
-        <item>Tropos Rallye</item>
-        <item>Verlierer</item>
-        <item>V-STR</item>
-        <item>190z</item>
-        <item>Ardent</item>
-        <item>Casco</item>
-        <item>Cheburek</item>
-        <item>Cheetah Classic</item>
-        <item>Coquette Classic</item>
-        <item>Deluxo</item>
-        <item>Dynasty</item>
-        <item>Fagaloa</item>
-        <item>Fränken Stange</item>
-        <item>GT500</item>
-        <item>Infernus Classic</item>
-        <item>JB 700</item>
-        <item>JB 700W</item>
-        <item>Komoda</item>
-        <item>Mamba</item>
-        <item>Manana</item>
-        <item>Michelli GT</item>
-        <item>Monroe</item>
-        <item>Nebula Turbo</item>
-        <item>Peyote</item>
-        <item>Pigalle</item>
-        <item>Rapid GT Classic</item>
-        <item>Retinue</item>
-        <item>Retinue Mk II</item>
-        <item>Roosevelt</item>
-        <item>Roosevelt Valor</item>
-        <item>Savestra</item>
-        <item>Stinger</item>
-        <item>Stinger GT</item>
-        <item>Stirling GT</item>
-        <item>Stromberg (car)</item>
-        <item>Swinger</item>
-        <item>Torero</item>
-        <item>Tornado</item>
-        <item>Tornado</item>
-        <item>Tornado</item>
-        <item>Tornado</item>
-        <item>Tornado Custom</item>
-        <item>Tornado Rat Rod</item>
-        <item>Turismo Classic</item>
-        <item>Viseris</item>
-        <item>Zion Classic</item>
-        <item>Z-Type</item>
-        <item>811</item>
-        <item>Adder</item>
-        <item>Autarch</item>
-        <item>Banshee 900R</item>
-        <item>Bullet</item>
-        <item>Cheetah</item>
-        <item>Cyclone</item>
-        <item>Deveste Eight</item>
-        <item>Emerus</item>
-        <item>Entity XF</item>
-        <item>Entity XXR</item>
-        <item>ETR1</item>
-        <item>FMJ</item>
-        <item>Furia</item>
-        <item>GP1</item>
-        <item>Infernus</item>
-        <item>Itali GTB</item>
-        <item>Itali GTB Custom</item>
-        <item>Krieger</item>
-        <item>Nero</item>
-        <item>Nero Custom</item>
-        <item>Osiris</item>
-        <item>Penetrator</item>
-        <item>RE-7B</item>
-        <item>Reaper</item>
-        <item>Rocket Voltic</item>
-        <item>S80RR</item>
-        <item>SC1</item>
-        <item>Scramjet</item>
-        <item>Sultan RS</item>
-        <item>T20</item>
-        <item>Taipan</item>
-        <item>Tempesta</item>
-        <item>Tezeract</item>
-        <item>Thrax</item>
-        <item>Turismo R</item>
-        <item>Tyrant</item>
-        <item>Tyrus</item>
-        <item>Vacca</item>
-        <item>Vagner</item>
-        <item>Visione</item>
-        <item>Vigilante (car)</item>
-        <item>Voltic</item>
-        <item>XA-21</item>
-        <item>X80 Proto</item>
-        <item>Zentorno</item>
-        <item>Zorrusso</item>
-        <item>Apocalypse Dominator</item>
-        <item>Apocalypse Impaler</item>
-        <item>Apocalypse Imperator</item>
-        <item>Apocalypse Slamvan</item>
-        <item>Blade (car)</item>
-        <item>Buccaneer</item>
-        <item>Buccaneer Custom</item>
-        <item>Burger Shot Stallion</item>
-        <item>Chino</item>
-        <item>Chino Custom</item>
-        <item>Clique</item>
-        <item>Coquette BlackFin</item>
-        <item>Deviant</item>
-        <item>Dominator</item>
-        <item>Dominator GTX</item>
-        <item>Drift Yosemite</item>
-        <item>Duke O Death</item>
-        <item>Dukes (car)</item>
-        <item>Gauntlet</item>
-        <item>Gauntlet Classic</item>
-        <item>Gauntlet Hellfire</item>
-        <item>Hermes</item>
-        <item>Hotknife</item>
-        <item>Hustler</item>
-        <item>Impaler</item>
-        <item>Ellie</item>
-        <item>Faction</item>
-        <item>Faction Custom</item>
-        <item>Faction Custom Donk</item>
-        <item>Future Shock Dominator</item>
-        <item>Future Shock Impaler</item>
-        <item>Future Shock Imperator</item>
-        <item>Future Shock Slamvan</item>
-        <item>Lost Slamvan</item>
-        <item>Lurcher</item>
-        <item>Moonbeam</item>
-        <item>Moonbeam Custom</item>
-        <item>Nightmare Dominator</item>
-        <item>Nightmare Impaler</item>
-        <item>Nightmare Imperator</item>
-        <item>Nightmare Slamvan</item>
-        <item>Nightshade</item>
-        <item>Peyote Gasser</item>
-        <item>Phoenix</item>
-        <item>Picador</item>
-        <item>Pißwasser Dominator</item>
-        <item>Rat-Loader</item>
-        <item>Rat-Truck</item>
-        <item>Redwood Gauntlet</item>
-        <item>Ruiner</item>
-        <item>Ruiner</item>
-        <item>Ruiner 2000</item>
-        <item>Sabre Turbo</item>
-        <item>Sabre Turbo Custom</item>
-        <item>Slamvan</item>
-        <item>Slamvan Custom</item>
-        <item>Stallion</item>
-        <item>Tampa</item>
-        <item>Tulip</item>
-        <item>Vamos</item>
-        <item>Virgo</item>
-        <item>Virgo Classic</item>
-        <item>Virgo Classic Custom</item>
-        <item>Vigero</item>
-        <item>Voodoo</item>
-        <item>Voodoo Custom</item>
-        <item>Weaponized Tampa</item>
-        <item>Yosemite</item>
-        <item>Apocalypse Bruiser</item>
-        <item>Apocalypse Brutus</item>
-        <item>Apocalypse Sasquatch</item>
-        <item>Bifta</item>
-        <item>Blazer</item>
-        <item>Blazer Aqua</item>
-        <item>Blazer Lifeguard</item>
-        <item>Bodhi</item>
-        <item>Brawler</item>
-        <item>Caracara</item>
-        <item>Caracara 4x4</item>
-        <item>Desert Raid</item>
-        <item>Dubsta 6x6</item>
-        <item>Dune Buggy</item>
-        <item>Dune FAV</item>
-        <item>Duneloader</item>
-        <item>Everon</item>
-        <item>Freecrawler</item>
-        <item>Future Shock Bruiser</item>
-        <item>Future Shock Brutus</item>
-        <item>Future Shock Sasquatch</item>
-        <item>Hellion</item>
-        <item>Hot Rod Blazer</item>
-        <item>Injection</item>
-        <item>Insurgent</item>
-        <item>Insurgent Pick-Up</item>
-        <item>Insurgent Pick-Up Custom</item>
-        <item>Kalahari</item>
-        <item>Kamacho</item>
-        <item>Marshall</item>
-        <item>Menacer</item>
-        <item>Merryweather Mesa</item>
-        <item>Nightmare Bruiser</item>
-        <item>Nightmare Brutus</item>
-        <item>Nightmare Sasquatch</item>
-        <item>Nightshark</item>
-        <item>Outlaw</item>
-        <item>Ramp Buggy</item>
-        <item>Ramp Buggy</item>
-        <item>Rancher XL</item>
-        <item>Rancher XL</item>
-        <item>RC Bandito</item>
-        <item>Rebel</item>
-        <item>Riata</item>
-        <item>Rusty Rebel</item>
-        <item>Sandking SWB</item>
-        <item>Sandking XL</item>
-        <item>Space Docker</item>
-        <item>Street Blazer</item>
-        <item>Technical</item>
-        <item>Technical Aqua</item>
-        <item>Technical Custom</item>
-        <item>The Liberator</item>
-        <item>Trophy Truck</item>
-        <item>Vagrant</item>
-        <item>Zhaba</item>
-        <item>Baller</item>
-        <item>Baller</item>
-        <item>Baller LE</item>
-        <item>Baller LE (Armored)</item>
-        <item>Baller LE LWB</item>
-        <item>Baller LE LWB (Armored)</item>
-        <item>BeeJay XL</item>
-        <item>Cavalcade</item>
-        <item>Cavalcade</item>
-        <item>Contender</item>
-        <item>Dubsta</item>
-        <item>Dubsta</item>
-        <item>FQ 2</item>
-        <item>Granger</item>
-        <item>Gresley</item>
-        <item>Habanero</item>
-        <item>Huntley S</item>
-        <item>Landstalker</item>
-        <item>Mesa</item>
-        <item>Mesa</item>
-        <item>Novak</item>
-        <item>Patriot</item>
-        <item>Patriot Stretch</item>
-        <item>Radius</item>
-        <item>Rebla GTS</item>
-        <item>Rocoto</item>
-        <item>Seminole</item>
-        <item>Serrano</item>
-        <item>Toros</item>
-        <item>XLS</item>
-        <item>XLS (Armored)</item>
-        <item>Armored Boxville</item>
-        <item>Bison</item>
-        <item>Bison</item>
-        <item>Bison</item>
-        <item>Bobcat XL</item>
-        <item>Boxville</item>
-        <item>Boxville</item>
-        <item>Boxville</item>
-        <item>Boxville</item>
-        <item>Burrito</item>
-        <item>Bugstars Burrito</item>
-        <item>Burrito</item>
-        <item>Burrito</item>
-        <item>Burrito</item>
-        <item>Camper</item>
-        <item>Clown Van</item>
-        <item>Gang Burrito</item>
-        <item>Gang Burrito</item>
-        <item>Journey</item>
-        <item>Minivan</item>
-        <item>Minivan Custom</item>
-        <item>Paradise</item>
-        <item>Pony</item>
-        <item>Pony</item>
-        <item>Rumpo</item>
-        <item>Rumpo</item>
-        <item>Rumpo Custom</item>
-        <item>Speedo</item>
-        <item>Speedo Custom</item>
-        <item>Surfer</item>
-        <item>Surfer</item>
-        <item>Taco Van</item>
-        <item>Youga</item>
-        <item>Youga Classic</item>
-        <item>Cutter</item>
-        <item>Dock Handler</item>
-        <item>Dozer</item>
-        <item>Dump</item>
-        <item>Flatbed</item>
-        <item>Guardian</item>
-        <item>Mixer</item>
-        <item>Mixer</item>
-        <item>Rubble</item>
-        <item>Tipper</item>
-        <item>Tipper</item>
-        <item>Apocalypse Cerberus</item>
-        <item>Benson</item>
-        <item>Biff</item>
-        <item>Future Shock Cerberus</item>
-        <item>Hauler</item>
-        <item>Hauler Custom</item>
-        <item>Mule</item>
-        <item>Mule</item>
-        <item>Mule</item>
-        <item>Mule Custom</item>
-        <item>Nightmare Cerberus</item>
-        <item>Packer</item>
-        <item>Phantom</item>
-        <item>Phantom Custom</item>
-        <item>Phantom Wedge</item>
-        <item>Pounder</item>
-        <item>Pounder Custom</item>
-        <item>Stockade</item>
-        <item>Stockade</item>
-        <item>Terrorbyte</item>
-        <item>Airtug</item>
-        <item>Caddy</item>
-        <item>Caddy</item>
-        <item>Caddy</item>
-        <item>Docktug</item>
-        <item>Fieldmaster</item>
-        <item>Fieldmaster</item>
-        <item>Forklift</item>
-        <item>Lawn Mower</item>
-        <item>Ripley</item>
-        <item>Sadler</item>
-        <item>Sadler</item>
-        <item>Scrap Truck</item>
-        <item>Towtruck (truck)</item>
-        <item>Tow Truck</item>
-        <item>Tractor</item>
-        <item>Utility Truck</item>
-        <item>Utility Truck</item>
-        <item>Utility Van</item>
-        <item>Army Trailer</item>
-        <item>Army Trailer</item>
-        <item>Army Trailer</item>
-        <item>Army Trailer (tanker)</item>
-        <item>Baletrailer</item>
-        <item>Boat Trailer</item>
-        <item>Dock Trailer</item>
-        <item>Graintrailer</item>
-        <item>Mobile Operations Center</item>
-        <item>Ortegas trailer</item>
-        <item>Trailer (boat)</item>
-        <item>Trailer (car carrier)</item>
-        <item>Trailer (car carrier)</item>
-        <item>Trailer (flatbed)</item>
-        <item>Trailer (large)</item>
-        <item>Trailer (large)</item>
-        <item>Trailer (large)</item>
-        <item>Trailer (large)</item>
-        <item>Trailer (large)</item>
-        <item>Trailer (logs)</item>
-        <item>Trailer (rake)</item>
-        <item>Trailer (small)</item>
-        <item>Trailer (tanker)</item>
-        <item>Trailer (tanker)</item>
-        <item>Anti-Aircraft Trailer</item>
-        <item>Apocalypse Scarab</item>
-        <item>APC</item>
-        <item>Barracks</item>
-        <item>Barracks</item>
-        <item>Barracks Semi</item>
-        <item>Barrage</item>
-        <item>Chernobog</item>
-        <item>Crusader</item>
-        <item>Future Shock Scarab</item>
-        <item>Half-track</item>
-        <item>Invade and Persuade Tank</item>
-        <item>Nightmare Scarab</item>
-        <item>Rhino Tank</item>
-        <item>Thruster</item>
-        <item>TM-02 Khanjali</item>
-        <item>Ambulance</item>
-        <item>FIB Buffalo</item>
-        <item>FIB Granger</item>
-        <item>Fire Truck</item>
-        <item>Lifeguard</item>
-        <item>Park Ranger</item>
-        <item>Police Bike</item>
-        <item>Police Interceptor</item>
-        <item>Police Buffalo</item>
-        <item>Police Cruiser</item>
-        <item>Police Maverick</item>
-        <item>Police Rancher</item>
-        <item>Police Riot</item>
-        <item>Police Roadcruiser</item>
-        <item>Police Transporter</item>
-        <item>Prison Bus</item>
-        <item>Predator</item>
-        <item>RCV</item>
-        <item>Sheriff Cruiser</item>
-        <item>Sheriff SUV</item>
-        <item>Unmarked Cruiser</item>
-        <item>Airport Bus</item>
-        <item>Brickade</item>
-        <item>Bus</item>
-        <item>Dashound</item>
-        <item>Dune</item>
-        <item>Festival Bus</item>
-        <item>Rental Shuttle Bus</item>
-        <item>Taxi</item>
-        <item>Tourbus</item>
-        <item>Trashmaster</item>
-        <item>Trashmaster</item>
-        <item>Wastelander</item>
-        <item>BMX</item>
-        <item>Cruiser (bike)</item>
-        <item>Endurex Race Bike</item>
-        <item>Fixter</item>
-        <item>Scorcher</item>
-        <item>Tri-Cycles Race Bike</item>
-        <item>Whippet Race Bike</item>
-        <item>Alpha-Z1</item>
-        <item>Atomic Blimp</item>
-        <item>Avenger (plane)</item>
-        <item>Avenger (plane)</item>
-        <item>B-11 Strikeforce</item>
-        <item>Besra</item>
-        <item>Blimp</item>
-        <item>Cargo Plane</item>
-        <item>Cuban 800</item>
-        <item>Dodo</item>
-        <item>Duster</item>
-        <item>Howard NX-25</item>
-        <item>Hydra</item>
-        <item>Jet</item>
-        <item>LF-22 Starling</item>
-        <item>Luxor</item>
-        <item>Luxor Deluxe</item>
-        <item>Mallard</item>
-        <item>Mammatus</item>
-        <item>Miljet</item>
-        <item>Mogul</item>
-        <item>Nimbus</item>
-        <item>P-45 Nokota</item>
-        <item>P-996 LAZER</item>
-        <item>Pyro</item>
-        <item>RM-10 Bombushka</item>
-        <item>Rogue (plane)</item>
-        <item>Seabreeze</item>
-        <item>Shamal</item>
-        <item>Titan</item>
-        <item>Tula</item>
-        <item>Ultralight</item>
-        <item>V-65 Molotok</item>
-        <item>Velum</item>
-        <item>Velum 5-Seater</item>
-        <item>Vestra</item>
-        <item>Volatol</item>
-        <item>Xero Blimp</item>
-        <item>Akula</item>
-        <item>Annihilator</item>
-        <item>Buzzard</item>
-        <item>Buzzard Attack Chopper</item>
-        <item>Cargobob</item>
-        <item>Cargobob</item>
-        <item>Cargobob</item>
-        <item>Cargobob</item>
-        <item>FH-1 Hunter</item>
-        <item>Frogger</item>
-        <item>Frogger</item>
-        <item>Havok</item>
-        <item>Maverick</item>
-        <item>Savage</item>
-        <item>Sea Sparrow</item>
-        <item>Skylift</item>
-        <item>SuperVolito</item>
-        <item>SuperVolito Carbon</item>
-        <item>Swift</item>
-        <item>Swift Deluxe</item>
-        <item>Valkyrie</item>
-        <item>Valkyrie MOD.0</item>
-        <item>Volatus</item>
-        <item>Dinghy</item>
-        <item>Dinghy</item>
-        <item>Dinghy</item>
-        <item>Dinghy</item>
-        <item>Jetmax</item>
-        <item>Kraken</item>
-        <item>Marquis</item>
-        <item>Seashark</item>
-        <item>Seashark</item>
-        <item>Seashark</item>
-        <item>Speeder (boat)</item>
-        <item>Speeder (boat)</item>
-        <item>Squalo</item>
-        <item>Submersible</item>
-        <item>Suntrap</item>
-        <item>Toro</item>
-        <item>Toro</item>
-        <item>Tropic</item>
-        <item>Tropic</item>
-        <item>Tug (boat)</item>
+        <item>Akuma,https://vignette.wikia.nocookie.net/gtawiki/images/2/2a/Akuma-GTAV-RSCStats.png/revision/latest?cb=20160705134729</item>
+        <item>Apocalypse Deathbike,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Avarus,https://vignette.wikia.nocookie.net/gtawiki/images/4/46/Avarus-GTAO-RSCStats.PNG/revision/latest?cb=20170503055228</item>
+        <item>Bagger,https://vignette.wikia.nocookie.net/gtawiki/images/9/9a/Bagger-GTAV-RSCStats.png/revision/latest?cb=20160705140045</item>
+        <item>Bati 801,https://vignette.wikia.nocookie.net/gtawiki/images/a/ab/Bati801-GTAV-RSCStats.png/revision/latest?cb=20160705140427</item>
+        <item>Bati 801RR,https://vignette.wikia.nocookie.net/gtawiki/images/f/fd/Bati801RR-GTAV-RSCStats.png/revision/latest?cb=20160705141039</item>
+        <item>BF400,https://vignette.wikia.nocookie.net/gtawiki/images/d/d2/BF400-GTAO-RSCStats.png/revision/latest?cb=20190512220748</item>
+        <item>Carbon RS,https://vignette.wikia.nocookie.net/gtawiki/images/7/74/CarbonRS-GTAV-RSCStats.png/revision/latest?cb=20160705141845</item>
+        <item>Chimera,https://vignette.wikia.nocookie.net/gtawiki/images/6/65/Chimera-GTAO-RSCStats.PNG/revision/latest?cb=20170429094859</item>
+        <item>Cliffhanger,https://vignette.wikia.nocookie.net/gtawiki/images/e/e5/Cliffhanger-GTAO-RSCStats.PNG/revision/latest?cb=20170526113252</item>
+        <item>Daemon,https://vignette.wikia.nocookie.net/gtawiki/images/2/2e/Daemon-GTAV-RSCStats.png/revision/latest?cb=20160705142308</item>
+        <item>Defiler,https://vignette.wikia.nocookie.net/gtawiki/images/9/90/Defiler-GTAO-RSCStats.PNG/revision/latest?cb=20170503053226</item>
+        <item>Diabolus,https://vignette.wikia.nocookie.net/gtawiki/images/8/82/Diabolus-GTAO-RSCStats.PNG/revision/latest?cb=20170526112734</item>
+        <item>Diabolus Custom,https://vignette.wikia.nocookie.net/gtawiki/images/9/91/DiabolusCustom-GTAO-RSCStats.PNG/revision/latest?cb=20170527003451</item>
+        <item>Double T,https://vignette.wikia.nocookie.net/gtawiki/images/6/65/DoubleT-GTAV-RSCStats.png/revision/latest?cb=20160705142639</item>
+        <item>Enduro,https://vignette.wikia.nocookie.net/gtawiki/images/0/00/Enduro-GTAV-RSCStats.png/revision/latest?cb=20160705143108</item>
+        <item>Esskey,https://vignette.wikia.nocookie.net/gtawiki/images/1/17/Esskey-GTAO-RSCStats.PNG/revision/latest?cb=20170526111725</item>
+        <item>Faggio,https://vignette.wikia.nocookie.net/gtawiki/images/9/9b/Faggio-GTAV-RSCStats.png/revision/latest?cb=20160705143526</item>
+        <item>Faggio Mod,https://vignette.wikia.nocookie.net/gtawiki/images/3/31/FaggioMod-GTAV-RSCStats.png/revision/latest?cb=20161127185406</item>
+        <item>Faggio Sport,https://vignette.wikia.nocookie.net/gtawiki/images/b/b9/FaggioSport-GTAO-RSCStats.PNG/revision/latest?cb=20170429094057</item>
+        <item>FCR 1000,https://vignette.wikia.nocookie.net/gtawiki/images/1/1d/FCR1000-GTAO-RSCStats.PNG/revision/latest?cb=20170526094227</item>
+        <item>FCR 1000 Custom,https://vignette.wikia.nocookie.net/gtawiki/images/d/d2/FCR1000Custom-GTAO-RSCStats.PNG/revision/latest?cb=20170619180928</item>
+        <item>Future Shock Deathbike,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Gargoyle,https://vignette.wikia.nocookie.net/gtawiki/images/8/88/Gargoyle-GTAO-RSCStats.PNG/revision/latest?cb=20170526094759</item>
+        <item>Hakuchou,https://vignette.wikia.nocookie.net/gtawiki/images/2/2e/Hakuchou-GTAV-RSCStats.png/revision/latest?cb=20160705143851</item>
+        <item>Hakuchou Drag,https://vignette.wikia.nocookie.net/gtawiki/images/0/00/HakuchouCustom-GTAV-RSCStats.PNG/revision/latest?cb=20170503052410</item>
+        <item>Hexer,https://vignette.wikia.nocookie.net/gtawiki/images/5/57/Hexer-GTAV-RSCStats.png/revision/latest?cb=20160705144917</item>
+        <item>Innovation,https://vignette.wikia.nocookie.net/gtawiki/images/c/cb/Innovation-GTAV-RSCStats.png/revision/latest?cb=20160705145151</item>
+        <item>Lectro,https://vignette.wikia.nocookie.net/gtawiki/images/2/2c/Lectro-GTAV-RSCStats.png/revision/latest?cb=20160705145523</item>
+        <item>Manchez,https://vignette.wikia.nocookie.net/gtawiki/images/0/0e/Manchez-GTAO-RSCStats.PNG/revision/latest?cb=20170524105818</item>
+        <item>Nemesis,https://vignette.wikia.nocookie.net/gtawiki/images/5/54/Nemesis-GTAV-RSCStats.png/revision/latest?cb=20160709124744</item>
+        <item>Nightblade,https://vignette.wikia.nocookie.net/gtawiki/images/6/6e/Nightblade-GTAO-RSCStats.PNG/revision/latest?cb=20170524105143</item>
+        <item>Nightmare Deathbike,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Oppressor,https://vignette.wikia.nocookie.net/gtawiki/images/7/77/Oppressor-GTAO-RSCStats.PNG/revision/latest?cb=20170705144737</item>
+        <item>Oppressor Mk II,https://vignette.wikia.nocookie.net/gtawiki/images/2/29/OppressorMkII-GTAO-RSCStats.png/revision/latest?cb=20190512221710</item>
+        <item>PCJ 600,https://vignette.wikia.nocookie.net/gtawiki/images/2/2d/PCJ600-GTAV-RSCStats.png/revision/latest?cb=20160709125316</item>
+        <item>Rampant Rocket,https://vignette.wikia.nocookie.net/gtawiki/images/f/fc/RampantRocket-GTAO-RSCStats.png/revision/latest?cb=20191104140755</item>
+        <item>Ruffian,https://vignette.wikia.nocookie.net/gtawiki/images/c/c2/Ruffian-GTAV-RSCStats.png/revision/latest?cb=20160709125857</item>
+        <item>Sanchez,https://vignette.wikia.nocookie.net/gtawiki/images/3/3a/Sanchez-GTAV-RSCStats.png/revision/latest?cb=20160709130433</item>
+        <item>Sanctus,https://vignette.wikia.nocookie.net/gtawiki/images/7/70/Sanctus-GTAO-RSCStats.PNG/revision/latest?cb=20170526082351</item>
+        <item>Shotaro,https://vignette.wikia.nocookie.net/gtawiki/images/7/78/Shotaro-GTAO-RSCStats.PNG/revision/latest?cb=20170526113827</item>
+        <item>Sovereign,https://vignette.wikia.nocookie.net/gtawiki/images/c/cc/Sovereign-GTAV-RSCStats.png/revision/latest?cb=20160709130902</item>
+        <item>Stryder,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Thrust,https://vignette.wikia.nocookie.net/gtawiki/images/7/7e/Thrust-GTAV-RSCStats.png/revision/latest?cb=20160709131243</item>
+        <item>Vader,https://vignette.wikia.nocookie.net/gtawiki/images/e/e6/Vader-GTAV-RSCStats.png/revision/latest?cb=20160709131734</item>
+        <item>Vindicator,https://vignette.wikia.nocookie.net/gtawiki/images/2/25/Vindicator-GTAV-RSCStats.png/revision/latest?cb=20160709132202</item>
+        <item>Vortex (motorcycle),https://vignette.wikia.nocookie.net/gtawiki/images/6/63/Vortex-GTAO-RSCStats.PNG/revision/latest?cb=20170526081107</item>
+        <item>Wolfsbane,https://vignette.wikia.nocookie.net/gtawiki/images/5/59/Wolfsbane-GTAO-RSCStats.PNG/revision/latest?cb=20170429094446</item>
+        <item>Zombie Bobber,https://vignette.wikia.nocookie.net/gtawiki/images/5/5f/ZombieBobber-GTAO-RSCStats.png/revision/latest?cb=20180421175745</item>
+        <item>Zombie Chopper,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Apocalypse Issi,https://vignette.wikia.nocookie.net/gtawiki/images/5/57/ArenaIssi-GTAO-RSCStats.png/revision/latest?cb=20190514234046</item>
+        <item>Asbo,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Blista,https://vignette.wikia.nocookie.net/gtawiki/images/5/5c/Blista-GTAV-StatsRSC.png/revision/latest?cb=20151227184307</item>
+        <item>Blista Kanjo,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Brioso R/A,https://vignette.wikia.nocookie.net/gtawiki/images/e/e9/BriosoRA-GTAO-RSCStats.png/revision/latest?cb=20190514233213</item>
+        <item>Dilettante,https://vignette.wikia.nocookie.net/gtawiki/images/3/3c/Dilettante-GTAV-StatsRSC.png/revision/latest?cb=20151228194739</item>
+        <item>Future Shock Issi,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Issi,https://vignette.wikia.nocookie.net/gtawiki/images/0/02/Issi-GTAV-StatsRSC.png/revision/latest?cb=20151228195716</item>
+        <item>Issi Classic,https://vignette.wikia.nocookie.net/gtawiki/images/a/a5/IssiClassic-GTAO-RSCStats.png/revision/latest?cb=20180525190634</item>
+        <item>Nightmare Issi,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Panto,https://vignette.wikia.nocookie.net/gtawiki/images/b/bc/Panto-GTAV-StatsRSC.png/revision/latest?cb=20151228201730</item>
+        <item>Prairie,https://vignette.wikia.nocookie.net/gtawiki/images/8/83/Prairie-GTAV-StatsRSC.png/revision/latest?cb=20151228201306</item>
+        <item>Rhapsody,https://vignette.wikia.nocookie.net/gtawiki/images/d/d3/Rhapsody-GTAV-RSCStats.png/revision/latest?cb=20160709135050</item>
+        <item>Cognoscenti Cabrio,https://vignette.wikia.nocookie.net/gtawiki/images/0/06/CognoscentiCabrio-GTAV-RSCStats.png/revision/latest?cb=20160107172908</item>
+        <item>Exemplar,https://vignette.wikia.nocookie.net/gtawiki/images/9/99/Exemplar-GTAV-RSCStats.png/revision/latest?cb=20160709140137</item>
+        <item>F620,https://vignette.wikia.nocookie.net/gtawiki/images/d/d6/F620-GTAV-RSCStats.png/revision/latest?cb=20160709140708</item>
+        <item>Felon,https://vignette.wikia.nocookie.net/gtawiki/images/b/b0/Felon-GTAV-RSCStats.png/revision/latest?cb=20160709141357</item>
+        <item>Felon GT,https://vignette.wikia.nocookie.net/gtawiki/images/1/17/FelonGT-GTAV-RSCStats.png/revision/latest?cb=20160709142112</item>
+        <item>Jackal,https://vignette.wikia.nocookie.net/gtawiki/images/b/bc/Jackal-GTAV-RSCStats.png/revision/latest?cb=20160709142523</item>
+        <item>Oracle,https://vignette.wikia.nocookie.net/gtawiki/images/1/18/Oracle-GTAV-RSCStats.png/revision/latest?cb=20160709143341</item>
+        <item>Oracle XS,https://vignette.wikia.nocookie.net/gtawiki/images/4/46/OracleXS-GTAV-RSCStats.png/revision/latest?cb=20190424163208</item>
+        <item>Sentinel,https://vignette.wikia.nocookie.net/gtawiki/images/8/80/Sentinel-GTAV-RSC.png/revision/latest?cb=20160222151337</item>
+        <item>Sentinel XS,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Windsor,https://vignette.wikia.nocookie.net/gtawiki/images/d/da/Windsor-GTAV-RSCStats.png/revision/latest?cb=20190316224804</item>
+        <item>Windsor Drop,https://vignette.wikia.nocookie.net/gtawiki/images/d/da/Windsor-GTAV-RSCStats.png/revision/latest?cb=20190316224804</item>
+        <item>Asea,https://vignette.wikia.nocookie.net/gtawiki/images/0/09/Asea-GTAV-RSCStats.PNG/revision/latest?cb=20170720114934</item>
+        <item>Asterope,https://vignette.wikia.nocookie.net/gtawiki/images/d/d6/Asterope-GTAV-RSCStats.png/revision/latest?cb=20190508152225</item>
+        <item>Cognoscenti,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Cognoscenti (Armored),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Cognoscenti 55,https://vignette.wikia.nocookie.net/gtawiki/images/8/87/Cognoscenti55-GTAO-RSCStats.PNG/revision/latest?cb=20170719223415</item>
+        <item>Cognoscenti 55 (Armored),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Emperor (car),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Fugitive,https://vignette.wikia.nocookie.net/gtawiki/images/1/15/Fugitive-GTAV-RSCStats.png/revision/latest?cb=20190330160824</item>
+        <item>Glendale,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Ingot,https://vignette.wikia.nocookie.net/gtawiki/images/f/fb/Ingot-GTAV-RSCStats.png/revision/latest?cb=20160217211026</item>
+        <item>Intruder,https://vignette.wikia.nocookie.net/gtawiki/images/8/85/Intruder-GTAV-RSCStats.png/revision/latest?cb=20160309191911</item>
+        <item>Premier,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Primo,https://vignette.wikia.nocookie.net/gtawiki/images/c/cd/Primo-GTAV-RSCStats.png/revision/latest?cb=20190412104536</item>
+        <item>Primo Custom,https://vignette.wikia.nocookie.net/gtawiki/images/8/8b/PrimoCustom-GTAO-RSCStats.png/revision/latest?cb=20190407213048</item>
+        <item>Regina,https://vignette.wikia.nocookie.net/gtawiki/images/4/41/Regina-GTAV-RSCStats.png/revision/latest?cb=20190508151442</item>
+        <item>Romero Hearse,https://vignette.wikia.nocookie.net/gtawiki/images/d/de/RomeroHearse-GTAV-RSCStats.png/revision/latest?cb=20190330161933</item>
+        <item>Schafter,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Schafter LWB (Armored),https://vignette.wikia.nocookie.net/gtawiki/images/d/d1/SchafterLWBArmored-GTAO-RSCStats.png/revision/latest?cb=20190722223852</item>
+        <item>Schafter V12 (Armored),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Stafford,https://vignette.wikia.nocookie.net/gtawiki/images/2/2c/Stafford-GTAO-RSCStats.png/revision/latest?cb=20180811105453</item>
+        <item>Stanier,https://vignette.wikia.nocookie.net/gtawiki/images/6/62/Stanier-GTAV-RSCStats.png/revision/latest?cb=20160916143910</item>
+        <item>Stratum,https://vignette.wikia.nocookie.net/gtawiki/images/f/f8/Stratum-GTAV-RSCStats.png/revision/latest?cb=20160916150924</item>
+        <item>Stretch,https://vignette.wikia.nocookie.net/gtawiki/images/c/c3/Stretch-GTAV-RSCStats.png/revision/latest?cb=20160916154002</item>
+        <item>Super Diamond,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Surge,https://vignette.wikia.nocookie.net/gtawiki/images/b/b8/Surge-GTAV-RSCStats.png/revision/latest?cb=20190508150608</item>
+        <item>Warrener,https://vignette.wikia.nocookie.net/gtawiki/images/1/1b/Warrener-GTAO-RSCStats.png/revision/latest?cb=20180622032055</item>
+        <item>Washington,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>8F Drafter,https://vignette.wikia.nocookie.net/gtawiki/images/f/fe/8FDrafter-GTAO-RSCStats.png/revision/latest?cb=20190816100340</item>
+        <item>9F,https://vignette.wikia.nocookie.net/gtawiki/images/2/28/9F-GTAV-RSCStats.png/revision/latest?cb=20150719142431</item>
+        <item>9F Cabrio,https://vignette.wikia.nocookie.net/gtawiki/images/b/b9/9FCabrio-GTAV-RSCStats.png/revision/latest?cb=20190418075726</item>
+        <item>Alpha,https://vignette.wikia.nocookie.net/gtawiki/images/0/0c/Alpha-GTAV-RSCStats.png/revision/latest?cb=20150719142550</item>
+        <item>Apocalypse ZR380,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Banshee,https://vignette.wikia.nocookie.net/gtawiki/images/8/8a/Banshee-GTAV-RSCStats.png/revision/latest?cb=20150719142651</item>
+        <item>Bestia GTS,https://vignette.wikia.nocookie.net/gtawiki/images/a/a2/BestiaGTS-GTAO-RSCStats.png/revision/latest?cb=20180723090412</item>
+        <item>Blista Compact,https://vignette.wikia.nocookie.net/gtawiki/images/4/43/BlistaCompact-GTAV-RSCStats.png/revision/latest?cb=20150719142814</item>
+        <item>Buffalo,https://vignette.wikia.nocookie.net/gtawiki/images/3/31/Buffalo-GTAV-RSCStats.png/revision/latest?cb=20150719143128</item>
+        <item>Buffalo S,https://vignette.wikia.nocookie.net/gtawiki/images/1/10/BuffaloS-GTAV-RSCStats.png/revision/latest?cb=20150719143148</item>
+        <item>Carbonizzare,https://vignette.wikia.nocookie.net/gtawiki/images/d/d8/Carbonizzare-GTAV-RSCStats.png/revision/latest?cb=20150719143220</item>
+        <item>Comet,https://vignette.wikia.nocookie.net/gtawiki/images/7/7a/Comet-GTAV-RSCStats.png/revision/latest?cb=20150721173133</item>
+        <item>Comet Retro Custom,https://vignette.wikia.nocookie.net/gtawiki/images/6/66/CometRetroCustom-GTAO-RSCStats.PNG/revision/latest?cb=20170524110517</item>
+        <item>Comet Safari,https://vignette.wikia.nocookie.net/gtawiki/images/8/8e/CometSafari-GTAO-RSCStats.png/revision/latest?cb=20190514225659</item>
+        <item>Comet SR,https://vignette.wikia.nocookie.net/gtawiki/images/0/0a/CometSR-GTAO-RSCStats.png/revision/latest?cb=20190514231359</item>
+        <item>Coquette,https://vignette.wikia.nocookie.net/gtawiki/images/b/b9/Coquette-GTAV-RSCStats.png/revision/latest?cb=20160920162102</item>
+        <item>Drift Tampa,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Elegy RH8,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ElegyRH8-GTAV-RSCStats.PNG/revision/latest?cb=20170528114656</item>
+        <item>Elegy Retro Custom,https://vignette.wikia.nocookie.net/gtawiki/images/c/cd/ElegyRetroCustom-GTAO-RSCStats.PNG/revision/latest?cb=20180730221400</item>
+        <item>Feltzer,https://vignette.wikia.nocookie.net/gtawiki/images/7/76/Feltzer-GTAV-RSCStats.png/revision/latest?cb=20160920165449</item>
+        <item>Flash GT,https://vignette.wikia.nocookie.net/gtawiki/images/d/df/FlashGT-GTAO-RSCStats.png/revision/latest?cb=20180503160246</item>
+        <item>Furore GT,https://vignette.wikia.nocookie.net/gtawiki/images/8/81/FuroreGT-GTAV-RSCStats.png/revision/latest?cb=20190403150207</item>
+        <item>Fusilade,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Future Shock ZR380,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Futo,https://vignette.wikia.nocookie.net/gtawiki/images/d/d7/Futo-GTAV-RSC.png/revision/latest?cb=20160218141340</item>
+        <item>GB200,https://vignette.wikia.nocookie.net/gtawiki/images/9/99/GB200-GTAO-RSCStats.png/revision/latest?cb=20180525190633</item>
+        <item>Go Go Monkey Blista,https://vignette.wikia.nocookie.net/gtawiki/images/0/03/GoGoMonkeyBlista-GTAV-RSCStats.png/revision/latest?cb=20150719143021</item>
+        <item>Hotring Sabre,https://vignette.wikia.nocookie.net/gtawiki/images/5/5f/HotringSabre-GTAO-RSCStats.png/revision/latest?cb=20180503161200</item>
+        <item>Imorgon,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Itali GTO,https://vignette.wikia.nocookie.net/gtawiki/images/d/d9/ItaliGTO-GTAO-RSCStats.png/revision/latest?cb=20181228223344</item>
+        <item>Issi Sport,https://vignette.wikia.nocookie.net/gtawiki/images/e/ed/IssiSport-GTAO-RSCStats.png/revision/latest?cb=20190726044529</item>
+        <item>Jester,https://vignette.wikia.nocookie.net/gtawiki/images/7/7e/Jester-GTAV-RSCStats.png/revision/latest?cb=20150721173552</item>
+        <item>Jester (Racecar),https://vignette.wikia.nocookie.net/gtawiki/images/c/c0/JesterRacecar-GTAV-RSCStats.png/revision/latest?cb=20150721173621</item>
+        <item>Jester Classic,https://vignette.wikia.nocookie.net/gtawiki/images/2/27/JesterClassic-GTAO-RSCStats.png/revision/latest?cb=20190421152801</item>
+        <item>Jugular,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Khamelion,https://vignette.wikia.nocookie.net/gtawiki/images/1/19/Khamelion-GTAV-RSCStats.png/revision/latest?cb=20190517002514</item>
+        <item>Kuruma,https://vignette.wikia.nocookie.net/gtawiki/images/2/2a/Kuruma-GTAV-RSCStats.png/revision/latest?cb=20200121124428</item>
+        <item>Kuruma (Armored),https://vignette.wikia.nocookie.net/gtawiki/images/5/5b/Kuruma-Armored-GTAV-RSCStats.png/revision/latest?cb=20200121124335</item>
+        <item>Locust,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Lynx,https://vignette.wikia.nocookie.net/gtawiki/images/3/36/Lynx-GTAO-RSCStats.png/revision/latest?cb=20190517000130</item>
+        <item>Massacro,https://vignette.wikia.nocookie.net/gtawiki/images/b/b3/Massacro-GTAV-RSCStats.png/revision/latest?cb=20150722095245</item>
+        <item>Massacro (Racecar),https://vignette.wikia.nocookie.net/gtawiki/images/f/f5/MassacroRacecar-GTAV-RSCStats.png/revision/latest?cb=20150722095317</item>
+        <item>Neo,https://vignette.wikia.nocookie.net/gtawiki/images/f/fa/Neo-GTAO-RSCStats.png/revision/latest?cb=20190801233110</item>
+        <item>Neon,https://vignette.wikia.nocookie.net/gtawiki/images/6/62/Neon-GTAO-RSCStats.png/revision/latest?cb=20190410103727</item>
+        <item>Nightmare ZR380,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Omnis,https://vignette.wikia.nocookie.net/gtawiki/images/c/cf/Omnis-GTAV-RSCStats.PNG/revision/latest?cb=20170419230742</item>
+        <item>Paragon R,https://vignette.wikia.nocookie.net/gtawiki/images/a/a5/ParagonR-GTAO-RSCStats.png/revision/latest?cb=20190726045229</item>
+        <item>Paragon R (Armored),https://vignette.wikia.nocookie.net/gtawiki/images/e/e4/ParagonRArmored-GTAO-RSCStats.png/revision/latest?cb=20190726050003</item>
+        <item>Pariah,https://vignette.wikia.nocookie.net/gtawiki/images/3/37/Pariah-GTAO-RSCStats.png/revision/latest?cb=20180324153738</item>
+        <item>Penumbra,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Raiden,https://vignette.wikia.nocookie.net/gtawiki/images/b/b4/Raiden-GTAO-RSCStats.png/revision/latest?cb=20190622213823</item>
+        <item>Rapid GT,https://vignette.wikia.nocookie.net/gtawiki/images/e/e3/RapidGT-GTAV-RSCStats.png/revision/latest?cb=20150722100614</item>
+        <item>Rapid GT,https://vignette.wikia.nocookie.net/gtawiki/images/e/e3/RapidGT-GTAV-RSCStats.png/revision/latest?cb=20150722100614</item>
+        <item>Raptor,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Revolter,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Ruston,https://vignette.wikia.nocookie.net/gtawiki/images/2/29/Ruston-GTAO-RSCStats.PNG/revision/latest?cb=20170618215012</item>
+        <item>Schafter LWB,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Schafter V12,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Schlagen GT,https://vignette.wikia.nocookie.net/gtawiki/images/3/36/SchlagenGT-GTAO-RSCStats.png/revision/latest?cb=20190122130202</item>
+        <item>Schwartzer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Sentinel Classic,https://vignette.wikia.nocookie.net/gtawiki/images/5/57/SentinelClassic-GTAO-RSCStats.png/revision/latest?cb=20190531084854</item>
+        <item>Seven-70,https://vignette.wikia.nocookie.net/gtawiki/images/f/f1/Seven-70-GTAO-RSCstats.png/revision/latest?cb=20160705142026</item>
+        <item>Specter,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Specter Custom,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Sprunk Buffalo,https://vignette.wikia.nocookie.net/gtawiki/images/5/50/SprunkBuffaloS-GTAV-RSCStats.png/revision/latest?cb=20150722101712</item>
+        <item>Streiter,https://vignette.wikia.nocookie.net/gtawiki/images/2/2c/Streiter-GTAO-RSCStats.png/revision/latest?cb=20190529111432</item>
+        <item>Sugoi,https://vignette.wikia.nocookie.net/gtawiki/images/d/de/Sugoi-GTAO-RSCStats.png/revision/latest?cb=20200216231805</item>
+        <item>Sultan,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Sultan Classic,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Surano,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Tropos Rallye,https://vignette.wikia.nocookie.net/gtawiki/images/0/04/TroposRallye-GTAO-RSCStats.PNG/revision/latest?cb=20170526080451</item>
+        <item>Verlierer,https://vignette.wikia.nocookie.net/gtawiki/images/b/bb/Verlierer-GTAO-RSCStats.png/revision/latest?cb=20151228141234</item>
+        <item>V-STR,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>190z,https://vignette.wikia.nocookie.net/gtawiki/images/f/f7/190z-GTAO-RSCStats.png/revision/latest?cb=20190514235038</item>
+        <item>Ardent,https://vignette.wikia.nocookie.net/gtawiki/images/9/9f/Ardent-GTAO-RSCStats.png/revision/latest?cb=20171015172356</item>
+        <item>Casco,https://vignette.wikia.nocookie.net/gtawiki/images/5/5a/Casco-GTAO-RSCStats.PNG/revision/latest?cb=20170708201521</item>
+        <item>Cheburek,https://vignette.wikia.nocookie.net/gtawiki/images/4/4f/Cheburek-GTAO-RSCStats.png/revision/latest?cb=20180529181925</item>
+        <item>Cheetah Classic,https://vignette.wikia.nocookie.net/gtawiki/images/e/e9/CheetahClassic-GTAO-RSCStats.PNG/revision/latest?cb=20170722002816</item>
+        <item>Coquette Classic,https://vignette.wikia.nocookie.net/gtawiki/images/d/d7/CoquetteClassic-GTAV-RSCStats.png/revision/latest?cb=20190121134050</item>
+        <item>Deluxo,https://vignette.wikia.nocookie.net/gtawiki/images/d/d3/Deluxo-GTAO-RSCStats.png/revision/latest?cb=20190118132213</item>
+        <item>Dynasty,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Fagaloa,https://vignette.wikia.nocookie.net/gtawiki/images/f/fc/Fagaloa-GTAO-RSCStats.png/revision/latest?cb=20180503162114</item>
+        <item>Fränken Stange,https://vignette.wikia.nocookie.net/gtawiki/images/3/3e/Fr%C3%A4nkenStange-GTAO-RSCStats.png/revision/latest?cb=20190421154656</item>
+        <item>GT500,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Infernus Classic,https://vignette.wikia.nocookie.net/gtawiki/images/1/11/InfernusClassic-GTAO-RSCStats.PNG/revision/latest?cb=20170526120612</item>
+        <item>JB 700W,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Komoda,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Mamba,https://vignette.wikia.nocookie.net/gtawiki/images/c/c0/Mamba-GTAV-StatsRSC.png/revision/latest?cb=20151229170533</item>
+        <item>Michelli GT,https://vignette.wikia.nocookie.net/gtawiki/images/5/5a/MichelliGT-GTAO-RSCStats.png/revision/latest?cb=20180529181926</item>
+        <item>Nebula Turbo,https://vignette.wikia.nocookie.net/gtawiki/images/0/03/NebulaTurbo-GTAO-RSCStats.png/revision/latest?cb=20190822191815</item>
+        <item>Rapid GT Classic,https://vignette.wikia.nocookie.net/gtawiki/images/a/a2/RapidGTClassic-GTAO-RSCStats.png/revision/latest?cb=20190415063908</item>
+        <item>Retinue,https://vignette.wikia.nocookie.net/gtawiki/images/5/50/Retinue-GTAV-RSCStats.png/revision/latest?cb=20171007191438</item>
+        <item>Retinue Mk II,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Roosevelt Valor,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Savestra,https://vignette.wikia.nocookie.net/gtawiki/images/9/96/Savestra-GTAO-RSCStats.png/revision/latest?cb=20190520121249</item>
+        <item>Stinger GT,https://vignette.wikia.nocookie.net/gtawiki/images/f/fb/StingerGT-GTAO-RSCStats.PNG/revision/latest?cb=20170528120815</item>
+        <item>Stirling GT,https://vignette.wikia.nocookie.net/gtawiki/images/6/68/StirlingGT-GTAV-RSCStats.png/revision/latest?cb=20170401135654</item>
+        <item>Stromberg (car),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Swinger,https://vignette.wikia.nocookie.net/gtawiki/images/6/69/Swinger-GTAV-RSCStats.png/revision/latest?cb=20180730194417</item>
+        <item>Torero,https://vignette.wikia.nocookie.net/gtawiki/images/f/fd/Torero-GTAO-RSCStats.PNG/revision/latest?cb=20170726100923</item>
+        <item>Tornado,https://vignette.wikia.nocookie.net/gtawiki/images/f/fc/Tornado-GTAV-RSCStats.png/revision/latest?cb=20190508052506</item>
+        <item>Tornado Custom,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Turismo Classic,https://vignette.wikia.nocookie.net/gtawiki/images/8/8a/TurismoClassic-GTAO-RSCStats.PNG/revision/latest?cb=20170526121322</item>
+        <item>Viseris,https://vignette.wikia.nocookie.net/gtawiki/images/f/f3/Viseris-GTAO-RSCStats.png/revision/latest?cb=20180324154725</item>
+        <item>Zion Classic,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Z-Type,https://vignette.wikia.nocookie.net/gtawiki/images/b/b6/ZType-GTAV-RSCStats.png/revision/latest?cb=20190403152852</item>
+        <item>811,https://vignette.wikia.nocookie.net/gtawiki/images/5/57/811-GTAO-RSCStats.png/revision/latest?cb=20170930191007</item>
+        <item>Adder,https://vignette.wikia.nocookie.net/gtawiki/images/9/90/Adder-GTAV-RSCStats.png/revision/latest?cb=20150719114627</item>
+        <item>Autarch,https://vignette.wikia.nocookie.net/gtawiki/images/3/30/Autarch-GTAO-RSCStats.png/revision/latest?cb=20190516101642</item>
+        <item>Banshee 900R,https://vignette.wikia.nocookie.net/gtawiki/images/4/4f/Banshee900R-GTAV-RSCStats.png/revision/latest?cb=20160711155452</item>
+        <item>Bullet,https://vignette.wikia.nocookie.net/gtawiki/images/b/b5/Bullet-GTAV-RSCStats.png/revision/latest?cb=20150719114626</item>
+        <item>Cheetah,https://vignette.wikia.nocookie.net/gtawiki/images/7/76/Cheetah-GTAV-RSCStats.png/revision/latest?cb=20150719114627</item>
+        <item>Cyclone,https://vignette.wikia.nocookie.net/gtawiki/images/8/83/Cyclone-GTAO-RSCStats.png/revision/latest?cb=20190415064423</item>
+        <item>Deveste Eight,https://vignette.wikia.nocookie.net/gtawiki/images/8/88/Deveste-GTAO-RSCStats.png/revision/latest?cb=20190221201856</item>
+        <item>Emerus,https://vignette.wikia.nocookie.net/gtawiki/images/9/96/Emerus-GTAO-RSCStats.png/revision/latest?cb=20190816105627</item>
+        <item>Entity XF,https://vignette.wikia.nocookie.net/gtawiki/images/d/d1/EntityXF-GTAV-RSCStats.png/revision/latest?cb=20150719114627</item>
+        <item>Entity XXR,https://vignette.wikia.nocookie.net/gtawiki/images/a/a0/EntityXXR-GTAO-RSCStats.png/revision/latest?cb=20180525190632</item>
+        <item>ETR1,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>FMJ,https://vignette.wikia.nocookie.net/gtawiki/images/5/57/FMJ-GTAO-RSCStats.PNG/revision/latest?cb=20170711170648</item>
+        <item>Furia,https://vignette.wikia.nocookie.net/gtawiki/images/2/21/Furia-GTAO-RSCStats.png/revision/latest?cb=20191229093522</item>
+        <item>GP1,https://vignette.wikia.nocookie.net/gtawiki/images/b/b5/GP1-GTAO-RSCStats.png/revision/latest?cb=20170314195512</item>
+        <item>Infernus,https://vignette.wikia.nocookie.net/gtawiki/images/0/08/Infernus-GTAV-RSCStats.png/revision/latest?cb=20150719114627</item>
+        <item>Itali GTB,https://vignette.wikia.nocookie.net/gtawiki/images/9/99/ItaliGTB-GTAO-RSCStats.PNG/revision/latest?cb=20170709202103</item>
+        <item>Itali GTB Custom,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Krieger,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Nero,https://vignette.wikia.nocookie.net/gtawiki/images/2/21/Nero-GTAO-RSCStats.PNG/revision/latest?cb=20170711171302</item>
+        <item>Nero Custom,https://vignette.wikia.nocookie.net/gtawiki/images/7/7e/NeroCustom-GTAO-RSCStats.PNG/revision/latest?cb=20170711172101</item>
+        <item>Osiris,https://vignette.wikia.nocookie.net/gtawiki/images/1/18/Osiris-GTAV-RSCStats.png/revision/latest?cb=20150719114627</item>
+        <item>Penetrator,https://vignette.wikia.nocookie.net/gtawiki/images/4/44/Penetrator-GTAO-RSCStats.png/revision/latest?cb=20190418081356</item>
+        <item>RE-7B,https://vignette.wikia.nocookie.net/gtawiki/images/0/0b/RE-7B-GTAO-RSCStats.png/revision/latest?cb=20190418080652</item>
+        <item>Reaper,https://vignette.wikia.nocookie.net/gtawiki/images/3/3e/Reaper-GTAV-RSC.png/revision/latest?cb=20160919172708</item>
+        <item>Rocket Voltic,https://vignette.wikia.nocookie.net/gtawiki/images/f/f4/RocketVoltic-GTAO-RSCStats.JPG/revision/latest?cb=20170917110255</item>
+        <item>S80RR,https://vignette.wikia.nocookie.net/gtawiki/images/3/32/S80RR-GTAO-RSCStats.png/revision/latest?cb=20190726042700</item>
+        <item>SC1,https://vignette.wikia.nocookie.net/gtawiki/images/2/29/SC1-GTAO-RSCStats.png/revision/latest?cb=20190418082312</item>
+        <item>Scramjet,https://vignette.wikia.nocookie.net/gtawiki/images/7/7d/Scramjet-GTAO-RSCStats.png/revision/latest?cb=20190409195730</item>
+        <item>Sultan RS,https://vignette.wikia.nocookie.net/gtawiki/images/4/43/SultanRS-GTAV-RSCStats.png/revision/latest?cb=20160920175553</item>
+        <item>T20,https://vignette.wikia.nocookie.net/gtawiki/images/e/e1/T20-GTAV-RSCStats.png/revision/latest?cb=20150719120005</item>
+        <item>Taipan,https://vignette.wikia.nocookie.net/gtawiki/images/2/2f/Taipan-GTAO-RSCStats.png/revision/latest?cb=20180524163835</item>
+        <item>Tempesta,https://vignette.wikia.nocookie.net/gtawiki/images/3/3c/Tempesta-GTAO-RSCStats.JPG/revision/latest?cb=20170917061304</item>
+        <item>Tezeract,https://vignette.wikia.nocookie.net/gtawiki/images/7/77/Tezeract-GTAO-RSCStats.png/revision/latest?cb=20180412165456</item>
+        <item>Thrax,https://vignette.wikia.nocookie.net/gtawiki/images/f/f7/Thrax-GTAO-RSCStats.png/revision/latest?cb=20190726043545</item>
+        <item>Turismo R,https://vignette.wikia.nocookie.net/gtawiki/images/d/da/TurismoR-GTAV-RSCStats.png/revision/latest?cb=20150719120054</item>
+        <item>Tyrant,https://vignette.wikia.nocookie.net/gtawiki/images/6/62/Tyrant-GTAO-RSCStats.png/revision/latest?cb=20180508195421</item>
+        <item>Tyrus,https://vignette.wikia.nocookie.net/gtawiki/images/d/d3/Tyrus-GTAO-RSCStats.PNG/revision/latest?cb=20170709202638</item>
+        <item>Vacca,https://vignette.wikia.nocookie.net/gtawiki/images/6/6f/Vacca-GTAV-RSCStats.png/revision/latest?cb=20150719120123</item>
+        <item>Vagner,https://vignette.wikia.nocookie.net/gtawiki/images/4/4b/Vagner-GTAO-RSCStats.PNG/revision/latest?cb=20170711171655</item>
+        <item>Visione,https://vignette.wikia.nocookie.net/gtawiki/images/a/a5/Visione-GTAO-RSCStats.JPG/revision/latest?cb=20170917061621</item>
+        <item>Vigilante (car),https://vignette.wikia.nocookie.net/gtawiki/images/4/4f/Vigilante-GTAO-RSCStats.png/revision/latest?cb=20171221002207</item>
+        <item>Voltic,https://vignette.wikia.nocookie.net/gtawiki/images/6/69/Voltic-GTAV-RSCStats.png/revision/latest?cb=20150719120145</item>
+        <item>XA-21,https://vignette.wikia.nocookie.net/gtawiki/images/5/58/XA-21-RSC-Stats.png/revision/latest?cb=20180611191007</item>
+        <item>Zentorno,https://vignette.wikia.nocookie.net/gtawiki/images/7/74/Zentorno-GTAV-RSCStats.png/revision/latest?cb=20150719120210</item>
+        <item>Zorrusso,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Apocalypse Dominator,https://vignette.wikia.nocookie.net/gtawiki/images/5/5a/ArenaDominator-GTAO-RSCStats.png/revision/latest?cb=20190113113648</item>
+        <item>Apocalypse Impaler,https://vignette.wikia.nocookie.net/gtawiki/images/a/a1/ArenaImpaler-GTAO-RSCStats.png/revision/latest?cb=20190106160919</item>
+        <item>Apocalypse Imperator,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Apocalypse Slamvan,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ArenaSlamvan-GTAO-RSCStats.png/revision/latest?cb=20191111201403</item>
+        <item>Blade (car),https://vignette.wikia.nocookie.net/gtawiki/images/8/89/Blade-GTAV-RSCStats.png/revision/latest?cb=20170319145034</item>
+        <item>Buccaneer,https://vignette.wikia.nocookie.net/gtawiki/images/9/97/Buccaneer-GTAV-RSCStats.png/revision/latest?cb=20160221021208</item>
+        <item>Buccaneer Custom,https://vignette.wikia.nocookie.net/gtawiki/images/c/cb/BuccaneerCustom-GTAV-RSCStats.png/revision/latest?cb=20160307195208</item>
+        <item>Burger Shot Stallion,https://vignette.wikia.nocookie.net/gtawiki/images/4/4b/BurgerShotStallion-GTAV-RSCStats.png/revision/latest?cb=20160215144454</item>
+        <item>Chino,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Chino Custom,https://vignette.wikia.nocookie.net/gtawiki/images/2/28/ChinoCustom-GTAV-RSCStats.png/revision/latest?cb=20160307194858</item>
+        <item>Clique,https://vignette.wikia.nocookie.net/gtawiki/images/3/39/Clique-GTAO-RSCStats.png/revision/latest?cb=20181228204832</item>
+        <item>Coquette BlackFin,https://vignette.wikia.nocookie.net/gtawiki/images/2/29/CoquetteBlackFin-GTAV-RSCStats.PNG/revision/latest?cb=20170508211307</item>
+        <item>Deviant,https://vignette.wikia.nocookie.net/gtawiki/images/1/1c/Deviant-GTAO-RSCStats.png/revision/latest?cb=20190207112751</item>
+        <item>Dominator,https://vignette.wikia.nocookie.net/gtawiki/images/a/ab/Dominator-GTAV-RSCStats.png/revision/latest?cb=20190526083235</item>
+        <item>Dominator GTX,https://vignette.wikia.nocookie.net/gtawiki/images/f/fe/DominatorGTX-GTAO-RSCStats.png/revision/latest?cb=20180525190632</item>
+        <item>Drift Yosemite,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Duke O'Death,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dukes (car),https://vignette.wikia.nocookie.net/gtawiki/images/5/5a/Dukes-GTAV-RSCStats.png/revision/latest?cb=20160309194749</item>
+        <item>Gauntlet,https://vignette.wikia.nocookie.net/gtawiki/images/e/e3/BravadoGauntlet-GTAV-RSCStats.png/revision/latest?cb=20200119023141</item>
+        <item>Gauntlet Classic,https://vignette.wikia.nocookie.net/gtawiki/images/7/76/GauntletClassic-GTAO-RSCStats.png/revision/latest?cb=20190810123922</item>
+        <item>Gauntlet Hellfire,https://vignette.wikia.nocookie.net/gtawiki/images/5/51/GauntletHellfire-GTAO-RSCStats.png/revision/latest?cb=20190908133034</item>
+        <item>Hermes,https://vignette.wikia.nocookie.net/gtawiki/images/f/f3/Hermes-GTAO-RSCStats.png/revision/latest?cb=20180106133740</item>
+        <item>Hotknife,https://vignette.wikia.nocookie.net/gtawiki/images/3/33/Hotknife-GTAV-RSCStats.PNG/revision/latest?cb=20170508204414</item>
+        <item>Hustler,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Impaler,https://vignette.wikia.nocookie.net/gtawiki/images/0/02/Impaler-GTAO-RSCStats.png/revision/latest?cb=20190423220657</item>
+        <item>Ellie,https://vignette.wikia.nocookie.net/gtawiki/images/8/8f/Ellie-GTAO-RSCStats.png/revision/latest?cb=20180503162959</item>
+        <item>Faction,https://vignette.wikia.nocookie.net/gtawiki/images/a/a4/Faction-GTAV-RSCStats.png/revision/latest?cb=20160307200214</item>
+        <item>Faction Custom,https://vignette.wikia.nocookie.net/gtawiki/images/f/f4/FactionCustom-GTAV-RSCStats.png/revision/latest?cb=20160307195633</item>
+        <item>Faction Custom Donk,https://vignette.wikia.nocookie.net/gtawiki/images/b/b0/FactionCustomDonk-GTAO-RSCStats.png/revision/latest?cb=20190526082443</item>
+        <item>Future Shock Dominator,https://vignette.wikia.nocookie.net/gtawiki/images/5/5a/ArenaDominator-GTAO-RSCStats.png/revision/latest?cb=20190113113648</item>
+        <item>Future Shock Impaler,https://vignette.wikia.nocookie.net/gtawiki/images/a/a1/ArenaImpaler-GTAO-RSCStats.png/revision/latest?cb=20190106160919</item>
+        <item>Future Shock Imperator,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Future Shock Slamvan,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ArenaSlamvan-GTAO-RSCStats.png/revision/latest?cb=20191111201403</item>
+        <item>Lost Slamvan,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Lurcher,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Moonbeam,https://vignette.wikia.nocookie.net/gtawiki/images/5/58/Moonbeam-GTAV-RSCStats.png/revision/latest?cb=20160307203304</item>
+        <item>Moonbeam Custom,https://vignette.wikia.nocookie.net/gtawiki/images/7/75/MoonbeamCustom-GTAV-RSCStats.png/revision/latest?cb=20160307203545</item>
+        <item>Nightmare Dominator,https://vignette.wikia.nocookie.net/gtawiki/images/5/5a/ArenaDominator-GTAO-RSCStats.png/revision/latest?cb=20190113113648</item>
+        <item>Nightmare Impaler,https://vignette.wikia.nocookie.net/gtawiki/images/a/a1/ArenaImpaler-GTAO-RSCStats.png/revision/latest?cb=20190106160919</item>
+        <item>Nightmare Imperator,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Nightmare Slamvan,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ArenaSlamvan-GTAO-RSCStats.png/revision/latest?cb=20191111201403</item>
+        <item>Nightshade,https://vignette.wikia.nocookie.net/gtawiki/images/8/88/Nightshade-GTAV-StatsRSC.png/revision/latest?cb=20151229185836</item>
+        <item>Peyote Gasser,https://vignette.wikia.nocookie.net/gtawiki/images/0/0f/PeyoteGasser-GTAO-RSCStats.png/revision/latest?cb=20191128112827</item>
+        <item>Phoenix,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Picador,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Pißwasser Dominator,https://vignette.wikia.nocookie.net/gtawiki/images/1/1c/Pi%C3%9FwasserDominator-GTAV-RSCStats.png/revision/latest?cb=20190510103904</item>
+        <item>Redwood Gauntlet,https://vignette.wikia.nocookie.net/gtawiki/images/2/2b/RedwoodGauntlet-GTAV-RSCStats.png/revision/latest?cb=20190510104543</item>
+        <item>Ruiner,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Ruiner,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Ruiner 2000,https://vignette.wikia.nocookie.net/gtawiki/images/4/45/Ruiner2000-GTAO-RSCStats.PNG/revision/latest?cb=20170526115619</item>
+        <item>Sabre Turbo,https://vignette.wikia.nocookie.net/gtawiki/images/7/73/SabreTurbo-GTAV-RSCStats.png/revision/latest?cb=20160205182532</item>
+        <item>Sabre Turbo Custom,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Slamvan,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Slamvan Custom,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Stallion,https://vignette.wikia.nocookie.net/gtawiki/images/9/9d/Stallion-GTAV-RSCStats.png/revision/latest?cb=20160215144348</item>
+        <item>Tampa,https://vignette.wikia.nocookie.net/gtawiki/images/9/97/Tampa-GTAV-RSCStats.png/revision/latest?cb=20160103203851</item>
+        <item>Tulip,https://vignette.wikia.nocookie.net/gtawiki/images/b/b9/Tulip-GTAO-RSCStats.png/revision/latest?cb=20190115112928</item>
+        <item>Vamos,https://vignette.wikia.nocookie.net/gtawiki/images/c/c2/Vamos-GTAO-RSCStats.png/revision/latest?cb=20190214164943</item>
+        <item>Virgo,https://vignette.wikia.nocookie.net/gtawiki/images/8/8d/Virgo-GTAV-RSCStats.png/revision/latest?cb=20160309163717</item>
+        <item>Virgo Classic,https://vignette.wikia.nocookie.net/gtawiki/images/a/a3/VirgoClassic-GTAO-RSCStats.png/revision/latest?cb=20190406055934</item>
+        <item>Virgo Classic Custom,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Vigero,https://vignette.wikia.nocookie.net/gtawiki/images/0/0b/Vigero-GTAV-RSCStats.png/revision/latest?cb=20160215140955</item>
+        <item>Voodoo,https://vignette.wikia.nocookie.net/gtawiki/images/c/ce/Voodoo-GTAV-RSCStats.png/revision/latest?cb=20160307154245</item>
+        <item>Voodoo Custom,https://vignette.wikia.nocookie.net/gtawiki/images/9/94/VoodooCustom-GTAV-RSCStats.png/revision/latest?cb=20160307204001</item>
+        <item>Weaponized Tampa,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Yosemite,https://vignette.wikia.nocookie.net/gtawiki/images/6/6c/Yosemite-GTAO-RSCStats.png/revision/latest?cb=20190406053351</item>
+        <item>Apocalypse Bruiser,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Apocalypse Brutus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Apocalypse Sasquatch,https://vignette.wikia.nocookie.net/gtawiki/images/9/9f/Sasquatch-GTAO-RSCStats.png/revision/latest?cb=20190103111329</item>
+        <item>Bifta,https://vignette.wikia.nocookie.net/gtawiki/images/0/00/Bifta-GTAV-RSCStats.png/revision/latest?cb=20160711160300</item>
+        <item>Blazer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Blazer Aqua,https://vignette.wikia.nocookie.net/gtawiki/images/9/9a/BlazerAqua-GTAO-RSCStats.png/revision/latest?cb=20190524051156</item>
+        <item>Blazer Lifeguard,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Bodhi,https://vignette.wikia.nocookie.net/gtawiki/images/f/f2/Bodhi-GTAV-RSCStats.JPG/revision/latest?cb=20170917055406</item>
+        <item>Brawler,https://vignette.wikia.nocookie.net/gtawiki/images/a/a3/Brawler-GTAV-RSCStats.png/revision/latest?cb=20190327134105</item>
+        <item>Caracara,https://vignette.wikia.nocookie.net/gtawiki/images/1/11/Caracara-GTAO-RSCStats.png/revision/latest?cb=20180525190630</item>
+        <item>Caracara 4x4,https://vignette.wikia.nocookie.net/gtawiki/images/c/ce/Caracara4x4-GTAO-RSCStats.png/revision/latest?cb=20190726051039</item>
+        <item>Desert Raid,https://vignette.wikia.nocookie.net/gtawiki/images/b/b3/DesertRaid-GTAO-RSCStats.PNG/revision/latest?cb=20170708204534</item>
+        <item>Dubsta 6x6,https://vignette.wikia.nocookie.net/gtawiki/images/5/5e/Dubsta6x6-GTAV-RSCStats.PNG/revision/latest?cb=20170708203305</item>
+        <item>Dune Buggy,https://vignette.wikia.nocookie.net/gtawiki/images/0/0e/DuneBuggy-GTAV-RSCStats.png/revision/latest?cb=20190421151104</item>
+        <item>Dune FAV,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Duneloader,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Everon,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Freecrawler,https://vignette.wikia.nocookie.net/gtawiki/images/6/6b/Freecrawler-GTAO-RSCStats.png/revision/latest?cb=20190127122310</item>
+        <item>Future Shock Bruiser,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Future Shock Brutus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Future Shock Sasquatch,https://vignette.wikia.nocookie.net/gtawiki/images/9/9f/Sasquatch-GTAO-RSCStats.png/revision/latest?cb=20190103111329</item>
+        <item>Hellion,https://vignette.wikia.nocookie.net/gtawiki/images/d/d7/Hellion-GTAO-RSCStats.png/revision/latest?cb=20191104135655</item>
+        <item>Hot Rod Blazer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Injection,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Insurgent,https://vignette.wikia.nocookie.net/gtawiki/images/2/20/Insurgent-GTAO-RSCStats.PNG/revision/latest?cb=20170709195649</item>
+        <item>Insurgent Pick-Up,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Insurgent Pick-Up Custom,https://vignette.wikia.nocookie.net/gtawiki/images/8/89/InsurgentPickUpCustom-GTAO-RSCStats.png/revision/latest?cb=20190514232201</item>
+        <item>Kalahari,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Kamacho,https://vignette.wikia.nocookie.net/gtawiki/images/6/6b/Kamacho-GTAO-RSCStats.png/revision/latest?cb=20180421065902</item>
+        <item>Marshall,https://vignette.wikia.nocookie.net/gtawiki/images/b/be/Marshall-GTAV-RSCStats.png/revision/latest?cb=20190421152251</item>
+        <item>Menacer,https://vignette.wikia.nocookie.net/gtawiki/images/2/21/Menacer-GTAO-RSCStats.png/revision/latest?cb=20190407183423</item>
+        <item>Merryweather Mesa,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Nightmare Bruiser,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Nightmare Brutus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Nightmare Sasquatch,https://vignette.wikia.nocookie.net/gtawiki/images/9/9f/Sasquatch-GTAO-RSCStats.png/revision/latest?cb=20190103111329</item>
+        <item>Nightshark,https://vignette.wikia.nocookie.net/gtawiki/images/6/65/Nightshark-GTAO-RSCStats.PNG/revision/latest?cb=20171116174148</item>
+        <item>Outlaw,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Ramp Buggy,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Ramp Buggy,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Rancher XL,https://vignette.wikia.nocookie.net/gtawiki/images/f/f2/RancherXL-GTAV-RSCStats.png/revision/latest?cb=20190529072537</item>
+        <item>Rancher XL,https://vignette.wikia.nocookie.net/gtawiki/images/f/f2/RancherXL-GTAV-RSCStats.png/revision/latest?cb=20190529072537</item>
+        <item>RC Bandito,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Rebel,https://vignette.wikia.nocookie.net/gtawiki/images/5/5c/Rebel-GTAV-RSCStats.png/revision/latest?cb=20151227231228</item>
+        <item>Riata,https://vignette.wikia.nocookie.net/gtawiki/images/5/5a/Riata-GTAO-RSCStats.png/revision/latest?cb=20190110115907</item>
+        <item>Rusty Rebel,https://vignette.wikia.nocookie.net/gtawiki/images/5/5c/Rebel-GTAV-RSCStats.png/revision/latest?cb=20151227231228</item>
+        <item>Sandking SWB,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Sandking XL,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Space Docker,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Street Blazer,https://vignette.wikia.nocookie.net/gtawiki/images/7/7d/StreetBlazer-GTAO-RSCStats.PNG/revision/latest?cb=20170708203913</item>
+        <item>Technical,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Technical Aqua,https://vignette.wikia.nocookie.net/gtawiki/images/7/71/TechnicalAqua-GTAO-RSCStats.PNG/revision/latest?cb=20170721161721</item>
+        <item>Technical Custom,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>The Liberator,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trophy Truck,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Vagrant,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Zhaba,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Baller,https://vignette.wikia.nocookie.net/gtawiki/images/c/cb/FirstGenerationBaller-GTAV-RSCStats.png/revision/latest?cb=20190722222312</item>
+        <item>Baller LE,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Baller LE (Armored),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Baller LE LWB,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Baller LE LWB (Armored),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>BeeJay XL,https://vignette.wikia.nocookie.net/gtawiki/images/7/78/BeeJayXL-GTAV-RSCStats.png/revision/latest?cb=20190420105238</item>
+        <item>Cavalcade,https://vignette.wikia.nocookie.net/gtawiki/images/6/6a/Cavalcade-GTAV-RSCStats.png/revision/latest?cb=20160214145558</item>
+        <item>Cavalcade,https://vignette.wikia.nocookie.net/gtawiki/images/6/6a/Cavalcade-GTAV-RSCStats.png/revision/latest?cb=20160214145558</item>
+        <item>Contender,https://vignette.wikia.nocookie.net/gtawiki/images/5/5f/Contender-GTAO-RSCStats.JPG/revision/latest?cb=20171003213056</item>
+        <item>FQ 2,https://vignette.wikia.nocookie.net/gtawiki/images/6/68/FQ2-GTAV-RSCStats.png/revision/latest?cb=20180723102621</item>
+        <item>Granger,https://vignette.wikia.nocookie.net/gtawiki/images/2/2b/Granger-GTAV-RSCStats.png/revision/latest?cb=20190402025031</item>
+        <item>Gresley,https://vignette.wikia.nocookie.net/gtawiki/images/2/2f/Gresley-GTAV-RSCStats.png/revision/latest?cb=20190327231622</item>
+        <item>Habanero,https://vignette.wikia.nocookie.net/gtawiki/images/a/a3/Habanero-GTAV-RSC.png/revision/latest?cb=20160309144544</item>
+        <item>Huntley S,https://vignette.wikia.nocookie.net/gtawiki/images/5/58/HuntleyS-GTAV-RSCStats.PNG/revision/latest?cb=20170728190008</item>
+        <item>Landstalker,https://vignette.wikia.nocookie.net/gtawiki/images/c/c5/Landstalker-GTAV-RSCStats.JPG/revision/latest?cb=20171003212559</item>
+        <item>Mesa,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Mesa,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Novak,https://vignette.wikia.nocookie.net/gtawiki/images/d/da/Novak-GTAO-RSCStats.png/revision/latest?cb=20191113171354</item>
+        <item>Patriot,https://vignette.wikia.nocookie.net/gtawiki/images/9/9c/Patriot-GTAV-RSCStats.png/revision/latest?cb=20190407205513</item>
+        <item>Patriot Stretch,https://vignette.wikia.nocookie.net/gtawiki/images/0/00/PatriotStretch-GTAO-RSCStats.png/revision/latest?cb=20190619214830</item>
+        <item>Radius,https://vignette.wikia.nocookie.net/gtawiki/images/3/35/Radius-GTAV-RSCStats.PNG/revision/latest?cb=20170728190815</item>
+        <item>Rebla GTS,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Rocoto,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Seminole,https://vignette.wikia.nocookie.net/gtawiki/images/2/2a/Seminole-GTAV-RSCStats.png/revision/latest?cb=20190328093346</item>
+        <item>Serrano,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Toros,https://vignette.wikia.nocookie.net/gtawiki/images/d/db/Toros-GTAO-RSCStats.png/revision/latest?cb=20190320111442</item>
+        <item>XLS,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>XLS (Armored),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Armored Boxville,https://vignette.wikia.nocookie.net/gtawiki/images/f/ff/ArmoredBoxville-GTAO-RSCStats.PNG/revision/latest?cb=20170709204107</item>
+        <item>Bison,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Bison,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Bison,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Bobcat XL,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Boxville,https://vignette.wikia.nocookie.net/gtawiki/images/c/c1/Boxville-GTAV-RSCStats.png/revision/latest?cb=20160228165514</item>
+        <item>Burrito,https://vignette.wikia.nocookie.net/gtawiki/images/3/31/Burrito-GTAV-RSCStats.png/revision/latest?cb=20160304011358</item>
+        <item>Bugstars Burrito,https://vignette.wikia.nocookie.net/gtawiki/images/3/31/Burrito-GTAV-RSCStats.png/revision/latest?cb=20160304011358</item>
+        <item>Burrito,https://vignette.wikia.nocookie.net/gtawiki/images/3/31/Burrito-GTAV-RSCStats.png/revision/latest?cb=20160304011358</item>
+        <item>Camper,https://vignette.wikia.nocookie.net/gtawiki/images/3/32/Camper-GTAV-RSCStats.png/revision/latest?cb=20190423221204</item>
+        <item>Clown Van,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Gang Burrito,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Journey,https://vignette.wikia.nocookie.net/gtawiki/images/b/bb/Journey-GTAV-RSCStats.png/revision/latest?cb=20190423221732</item>
+        <item>Minivan,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Minivan Custom,https://vignette.wikia.nocookie.net/gtawiki/images/e/e5/MinivanCustom-GTAO-RSCStats.JPG/revision/latest?cb=20171227030023</item>
+        <item>Paradise,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Pony,https://vignette.wikia.nocookie.net/gtawiki/images/2/29/Pony-GTAV-RSCStats.png/revision/latest?cb=20160218133541</item>
+        <item>Rumpo,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Rumpo Custom,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Speedo,https://vignette.wikia.nocookie.net/gtawiki/images/0/0f/Speedo-GTAV-RSCStats.png/revision/latest?cb=20160909190833</item>
+        <item>Surfer,https://vignette.wikia.nocookie.net/gtawiki/images/4/4d/Surfer-GTAV-RSCStats.png/revision/latest?cb=20190424163842</item>
+        <item>Taco Van,https://vignette.wikia.nocookie.net/gtawiki/images/c/c2/TacoVan-GTAV-RSCStats.png/revision/latest?cb=20190415064932</item>
+        <item>Youga,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Youga Classic,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Cutter,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dock Handler,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dozer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dump,https://vignette.wikia.nocookie.net/gtawiki/images/c/c4/Dump-GTAV-RSCStats.png/revision/latest?cb=20190524054541</item>
+        <item>Flatbed,https://vignette.wikia.nocookie.net/gtawiki/images/6/6b/Flatbed-GTAV-RSCStats.png/revision/latest?cb=20151229162912</item>
+        <item>Guardian,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Mixer,https://vignette.wikia.nocookie.net/gtawiki/images/b/b5/Mixer-GTAV-RSCStats.png/revision/latest?cb=20190524055315</item>
+        <item>Mixer,https://vignette.wikia.nocookie.net/gtawiki/images/b/b5/Mixer-GTAV-RSCStats.png/revision/latest?cb=20190524055315</item>
+        <item>Rubble,https://vignette.wikia.nocookie.net/gtawiki/images/d/d5/Rubble-GTAV-RSCStats.png/revision/latest?cb=20161005170501</item>
+        <item>Tipper,https://vignette.wikia.nocookie.net/gtawiki/images/f/f2/Tipper-GTAV-RSCStats.png/revision/latest?cb=20190524053244</item>
+        <item>Apocalypse Cerberus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Benson,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Biff,https://vignette.wikia.nocookie.net/gtawiki/images/4/49/Biff-GTAV-RSCStats.png/revision/latest?cb=20190524052056</item>
+        <item>Future Shock Cerberus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Hauler,https://vignette.wikia.nocookie.net/gtawiki/images/f/f6/Hauler-GTAV-RSCStats.png/revision/latest?cb=20151229142508</item>
+        <item>Hauler Custom,https://vignette.wikia.nocookie.net/gtawiki/images/c/c8/HaulerCustom-GTAV-RSCStats.png/revision/latest?cb=20190510101922</item>
+        <item>Mule,https://vignette.wikia.nocookie.net/gtawiki/images/2/2a/Mule-GTAV-RSCStats.png/revision/latest?cb=20151229160346</item>
+        <item>Nightmare Cerberus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Packer,https://vignette.wikia.nocookie.net/gtawiki/images/0/08/Packer-GTAV-RSCStats.png/revision/latest?cb=20180728084404</item>
+        <item>Phantom,https://vignette.wikia.nocookie.net/gtawiki/images/b/b6/Phantom-GTAV-RSCStats.png/revision/latest?cb=20151229162014</item>
+        <item>Phantom Custom,https://vignette.wikia.nocookie.net/gtawiki/images/6/65/PhantomCustom-GTAO-RSCStats.png/revision/latest?cb=20190512222936</item>
+        <item>Phantom Wedge,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Pounder,https://vignette.wikia.nocookie.net/gtawiki/images/5/5c/Pounder-GTAV-RSCStats.png/revision/latest?cb=20151229164324</item>
+        <item>Pounder Custom,https://vignette.wikia.nocookie.net/gtawiki/images/e/e0/PounderCustom-GTAO-RSCStats.png/revision/latest?cb=20190512224213</item>
+        <item>Stockade,https://vignette.wikia.nocookie.net/gtawiki/images/8/84/Stockade-GTAV-RSCStats.png/revision/latest?cb=20151229144415</item>
+        <item>Terrorbyte,https://vignette.wikia.nocookie.net/gtawiki/images/f/fe/Terrorbyte-GTAO-RSCStats.png/revision/latest?cb=20190512222320</item>
+        <item>Airtug,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Caddy,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Docktug,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Fieldmaster,https://vignette.wikia.nocookie.net/gtawiki/images/b/bd/Fieldmaster-GTAV-RSCStats.PNG/revision/latest?cb=20170719100730</item>
+        <item>Forklift,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Lawn Mower,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Ripley,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Sadler,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Sadler,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Scrap Truck,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Towtruck (truck),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Tow Truck,https://vignette.wikia.nocookie.net/gtawiki/images/d/d1/Towtruck-GTAV-RSCStats.png/revision/latest?cb=20190422234239</item>
+        <item>Tractor,https://vignette.wikia.nocookie.net/gtawiki/images/4/43/Tractor-GTAV-RSCStats.PNG/revision/latest?cb=20170719100022</item>
+        <item>Utility Truck,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Utility Truck,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Utility Van,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Army Trailer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Baletrailer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Boat Trailer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dock Trailer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Graintrailer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Mobile Operations Center,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (boat),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (car carrier),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (car carrier),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (flatbed),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (large),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (logs),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (rake),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (small),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (tanker),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trailer (tanker),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Anti-Aircraft Trailer,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Apocalypse Scarab,https://vignette.wikia.nocookie.net/gtawiki/images/6/65/Scarab-GTAO-RSCStats.png/revision/latest?cb=20190508053752</item>
+        <item>APC,https://vignette.wikia.nocookie.net/gtawiki/images/3/36/APC-GTAO-RSCStats.PNG/revision/latest?cb=20170618212623</item>
+        <item>Barracks,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Barracks,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Barracks Semi,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Barrage,https://vignette.wikia.nocookie.net/gtawiki/images/2/2f/Barrage-GTAO-RSCStats.png/revision/latest?cb=20171213182856</item>
+        <item>Chernobog,https://vignette.wikia.nocookie.net/gtawiki/images/c/c1/Chernobog-GTAO-RSCStats.png/revision/latest?cb=20171214192917</item>
+        <item>Crusader,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Future Shock Scarab,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Half-track,https://vignette.wikia.nocookie.net/gtawiki/images/1/1d/Half-track-GTAO-RSCStats.png/revision/latest?cb=20190508054402</item>
+        <item>Invade and Persuade Tank,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Rhino Tank,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Thruster,https://vignette.wikia.nocookie.net/gtawiki/images/c/cd/Thruster-GTAO-RSCStats.JPG/revision/latest?cb=20171219014743</item>
+        <item>TM-02 Khanjali,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Ambulance,https://vignette.wikia.nocookie.net/gtawiki/images/3/3a/Ambulance-GTAV-RSCStats.png/revision/latest?cb=20190526084926</item>
+        <item>FIB Buffalo,https://vignette.wikia.nocookie.net/gtawiki/images/b/bb/FIB-Buffalo-GTAV-RSCStats.png/revision/latest?cb=20200120081634</item>
+        <item>FIB Granger,https://vignette.wikia.nocookie.net/gtawiki/images/2/20/FIB-Granger-GTAV-RSCStats.png/revision/latest?cb=20200120080431</item>
+        <item>Fire Truck,https://vignette.wikia.nocookie.net/gtawiki/images/0/04/FireTruck-GTAV-RSCStats.png/revision/latest?cb=20190529071037</item>
+        <item>Lifeguard,https://vignette.wikia.nocookie.net/gtawiki/images/2/26/Lifeguard-GTAV-RSCStats.png/revision/latest?cb=20190629185813</item>
+        <item>Park Ranger,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Police Bike,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Police Interceptor,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Police Buffalo,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Police Cruiser,https://vignette.wikia.nocookie.net/gtawiki/images/2/24/PoliceCruiser-GTAV-RSCStats.png/revision/latest?cb=20160909200701</item>
+        <item>Police Maverick,https://vignette.wikia.nocookie.net/gtawiki/images/6/68/PoliceMaverick-GTAV-RSCStats.PNG/revision/latest?cb=20170713182003</item>
+        <item>Police Rancher,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Police Riot,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Police Roadcruiser,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Police Transporter,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Prison Bus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Predator,https://vignette.wikia.nocookie.net/gtawiki/images/5/52/Predator-GTAV-RSCStats.png/revision/latest?cb=20160323150858</item>
+        <item>RCV,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Sheriff Cruiser,https://vignette.wikia.nocookie.net/gtawiki/images/2/24/PoliceCruiser-GTAV-RSCStats.png/revision/latest?cb=20160909200701</item>
+        <item>Sheriff SUV,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Unmarked Cruiser,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Airport Bus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Brickade,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Bus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dashound,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dune,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Rental Shuttle Bus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Taxi,https://vignette.wikia.nocookie.net/gtawiki/images/3/33/Taxi-GTAV-RSCStats.png/revision/latest?cb=20190529071912</item>
+        <item>Tourbus,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Trashmaster,https://vignette.wikia.nocookie.net/gtawiki/images/8/81/Trashmaster-GTAV-RSCStats.png/revision/latest?cb=20160308225850</item>
+        <item>Trashmaster,https://vignette.wikia.nocookie.net/gtawiki/images/8/81/Trashmaster-GTAV-RSCStats.png/revision/latest?cb=20160308225850</item>
+        <item>Wastelander,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>BMX,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Cruiser (bike),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Endurex Race Bike,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Fixter,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Scorcher,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Tri-Cycles Race Bike,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Whippet Race Bike,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Alpha-Z1,https://vignette.wikia.nocookie.net/gtawiki/images/c/c0/AlphaZ1-GTAO-RSCStats.JPG/revision/latest?cb=20170911030953</item>
+        <item>Atomic Blimp,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Avenger (plane),https://vignette.wikia.nocookie.net/gtawiki/images/7/72/Avenger-GTAO-RSCStats.png/revision/latest?cb=20180417195012</item>
+        <item>Avenger (plane),https://vignette.wikia.nocookie.net/gtawiki/images/7/72/Avenger-GTAO-RSCStats.png/revision/latest?cb=20180417195012</item>
+        <item>B-11 Strikeforce,https://vignette.wikia.nocookie.net/gtawiki/images/3/39/Strikeforce-GTAO-RSCStats.png/revision/latest?cb=20190409190756</item>
+        <item>Besra,https://vignette.wikia.nocookie.net/gtawiki/images/b/bf/Besra-GTAV-RSCStats.PNG/revision/latest?cb=20170430122823</item>
+        <item>Cargo Plane,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Cuban 800,https://vignette.wikia.nocookie.net/gtawiki/images/4/41/Cuban800-GTAV-RSCStats.PNG/revision/latest?cb=20170719094619</item>
+        <item>Dodo,https://vignette.wikia.nocookie.net/gtawiki/images/7/7c/Dodo-GTAV-RSCStats.PNG/revision/latest?cb=20170527011220</item>
+        <item>Duster,https://vignette.wikia.nocookie.net/gtawiki/images/2/20/Duster-GTAV-RSCStats.png/revision/latest?cb=20190629162928</item>
+        <item>Howard NX-25,https://vignette.wikia.nocookie.net/gtawiki/images/7/7c/HowardNX25-GTAO-RSCStats.png/revision/latest?cb=20170930190424</item>
+        <item>Hydra,https://vignette.wikia.nocookie.net/gtawiki/images/5/5e/Hydra-GTAO-RSCStats.PNG/revision/latest?cb=20170527010958</item>
+        <item>Jet,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>LF-22 Starling,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Luxor,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Luxor Deluxe,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Mallard,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Mammatus,https://vignette.wikia.nocookie.net/gtawiki/images/9/98/Mammatus-GTAV-RSCStats.png/revision/latest?cb=20190320012636</item>
+        <item>Miljet,https://vignette.wikia.nocookie.net/gtawiki/images/f/f6/Miljet-GTAV-RSCStats.PNG/revision/latest?cb=20170527004323</item>
+        <item>Mogul,https://vignette.wikia.nocookie.net/gtawiki/images/f/f0/Mogul-GTAO-RSCStats.JPG/revision/latest?cb=20171003191850</item>
+        <item>Nimbus,https://vignette.wikia.nocookie.net/gtawiki/images/e/e7/Nimbus-GTAO-RSCStats.png/revision/latest?cb=20160612021255</item>
+        <item>P-45 Nokota,https://vignette.wikia.nocookie.net/gtawiki/images/8/83/P45Nokota-GTAO-RSCStats.PNG/revision/latest?cb=20171109062953</item>
+        <item>P-996 LAZER,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Pyro,https://vignette.wikia.nocookie.net/gtawiki/images/8/86/Pyro-GTAO-RSCStats.JPG/revision/latest?cb=20171013002614</item>
+        <item>RM-10 Bombushka,https://vignette.wikia.nocookie.net/gtawiki/images/4/4b/RM10Bombushka-GTAO-RSCStats.JPG/revision/latest?cb=20170922065935</item>
+        <item>Rogue (plane),https://vignette.wikia.nocookie.net/gtawiki/images/1/1f/Rogue-GTAO-RSCStats.JPG/revision/latest?cb=20170909053559</item>
+        <item>Seabreeze,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Shamal,https://vignette.wikia.nocookie.net/gtawiki/images/5/55/Shamal-GTAV-RSCStats.PNG/revision/latest?cb=20170526135735</item>
+        <item>Titan,https://vignette.wikia.nocookie.net/gtawiki/images/9/9a/Titan-GTAV-RSCStats.PNG/revision/latest?cb=20170728180634</item>
+        <item>Tula,https://vignette.wikia.nocookie.net/gtawiki/images/d/dc/Tula-GTAO-RSCStats.JPG/revision/latest?cb=20170915002319</item>
+        <item>Ultralight,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>V-65 Molotok,https://vignette.wikia.nocookie.net/gtawiki/images/6/62/V65Moltok-GTAO-RSCStats.JPG/revision/latest?cb=20170909054040</item>
+        <item>Velum,https://vignette.wikia.nocookie.net/gtawiki/images/7/71/Velum-GTAV-RSCStats.PNG/revision/latest?cb=20170526141120</item>
+        <item>Velum 5-Seater,https://vignette.wikia.nocookie.net/gtawiki/images/6/6d/Velum5Seater-GTAV-RSCStats.PNG/revision/latest?cb=20170527003716</item>
+        <item>Vestra,https://vignette.wikia.nocookie.net/gtawiki/images/c/ca/Vestra-GTAV-RSCStats.PNG/revision/latest?cb=20170526140403</item>
+        <item>Volatol,https://vignette.wikia.nocookie.net/gtawiki/images/f/f4/Volatol-GTAO-RSCStats.png/revision/latest?cb=20190722224300</item>
+        <item>Xero Blimp,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Akula,https://vignette.wikia.nocookie.net/gtawiki/images/d/d1/Akula-GTAO-RSCStats.png/revision/latest?cb=20171213165130</item>
+        <item>Annihilator,https://vignette.wikia.nocookie.net/gtawiki/images/b/b2/Annihilator-GTAO-RSCStats.PNG/revision/latest?cb=20170602064118</item>
+        <item>Buzzard,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Buzzard Attack Chopper,https://vignette.wikia.nocookie.net/gtawiki/images/7/7c/BuzzardAttackChopper-GTAV-RSCStats.PNG/revision/latest?cb=20170713175513</item>
+        <item>Cargobob,https://vignette.wikia.nocookie.net/gtawiki/images/8/80/Cargobob-GTAV-RSCStats.png/revision/latest?cb=20190524060132</item>
+        <item>Cargobob,https://vignette.wikia.nocookie.net/gtawiki/images/8/80/Cargobob-GTAV-RSCStats.png/revision/latest?cb=20190524060132</item>
+        <item>Cargobob,https://vignette.wikia.nocookie.net/gtawiki/images/8/80/Cargobob-GTAV-RSCStats.png/revision/latest?cb=20190524060132</item>
+        <item>Cargobob,https://vignette.wikia.nocookie.net/gtawiki/images/8/80/Cargobob-GTAV-RSCStats.png/revision/latest?cb=20190524060132</item>
+        <item>Frogger,https://vignette.wikia.nocookie.net/gtawiki/images/d/d3/Frogger-GTAV-RSCStats.png/revision/latest?cb=20190524060935</item>
+        <item>Frogger,https://vignette.wikia.nocookie.net/gtawiki/images/d/d3/Frogger-GTAV-RSCStats.png/revision/latest?cb=20190524060935</item>
+        <item>Havok,https://vignette.wikia.nocookie.net/gtawiki/images/a/aa/Havok-GTAO-RSCStats.JPG/revision/latest?cb=20170930192035</item>
+        <item>Maverick,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Savage,https://vignette.wikia.nocookie.net/gtawiki/images/1/11/Savage-GTAO-RSCStats.PNG/revision/latest?cb=20170713174946</item>
+        <item>Sea Sparrow,https://vignette.wikia.nocookie.net/gtawiki/images/5/59/SeaSparrow-GTAO-RSCStats.png/revision/latest?cb=20180417193852</item>
+        <item>SuperVolito,https://vignette.wikia.nocookie.net/gtawiki/images/e/e9/SuperVolito-GTAO-RSCStats.PNG/revision/latest?cb=20170713180210</item>
+        <item>SuperVolito Carbon,https://vignette.wikia.nocookie.net/gtawiki/images/9/9b/SuperVolitoCarbon-GTAO-RSCStats.PNG/revision/latest?cb=20170713180742</item>
+        <item>Swift,https://vignette.wikia.nocookie.net/gtawiki/images/3/39/Swift-GTAV-RSCStats.PNG/revision/latest?cb=20170527005620</item>
+        <item>Swift Deluxe,https://vignette.wikia.nocookie.net/gtawiki/images/4/42/SwiftDeluxe-GTAO-RSCStats.PNG/revision/latest?cb=20170713181351</item>
+        <item>Valkyrie,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Valkyrie MOD.0,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Volatus,https://vignette.wikia.nocookie.net/gtawiki/images/b/bd/Volatus-GTAO-RSCStats.PNG/revision/latest?cb=20170527010138</item>
+        <item>Dinghy,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dinghy,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dinghy,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Dinghy,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Jetmax,https://vignette.wikia.nocookie.net/gtawiki/images/5/52/Jetmax-GTAV-RSCStats.PNG/revision/latest?cb=20171130201122</item>
+        <item>Kraken,https://vignette.wikia.nocookie.net/gtawiki/images/e/e2/Kraken-GTAV-RSCStats.png/revision/latest?cb=20190629182829</item>
+        <item>Marquis,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Seashark,https://vignette.wikia.nocookie.net/gtawiki/images/a/af/Seashark-GTAV-RSCStats.png/revision/latest?cb=20160404160131</item>
+        <item>Seashark,https://vignette.wikia.nocookie.net/gtawiki/images/a/af/Seashark-GTAV-RSCStats.png/revision/latest?cb=20160404160131</item>
+        <item>Seashark,https://vignette.wikia.nocookie.net/gtawiki/images/a/af/Seashark-GTAV-RSCStats.png/revision/latest?cb=20160404160131</item>
+        <item>Speeder (boat),https://vignette.wikia.nocookie.net/gtawiki/images/0/02/Speeder-GTAV-RSCStats.png/revision/latest?cb=20160404163149</item>
+        <item>Speeder (boat),https://vignette.wikia.nocookie.net/gtawiki/images/0/02/Speeder-GTAV-RSCStats.png/revision/latest?cb=20160404163149</item>
+        <item>Squalo,https://vignette.wikia.nocookie.net/gtawiki/images/0/00/Squalo-GTAV-RSCStats.png/revision/latest?cb=20190629183447</item>
+        <item>Submersible,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+        <item>Suntrap,https://vignette.wikia.nocookie.net/gtawiki/images/1/1e/Suntrap-GTAV-RSCStats.png/revision/latest?cb=20190629182327</item>
+        <item>Toro,https://vignette.wikia.nocookie.net/gtawiki/images/2/25/Toro-GTAV-RSCStats.PNG/revision/latest?cb=20171202061801</item>
+        <item>Toro,https://vignette.wikia.nocookie.net/gtawiki/images/2/25/Toro-GTAV-RSCStats.PNG/revision/latest?cb=20171202061801</item>
+        <item>Tropic,https://vignette.wikia.nocookie.net/gtawiki/images/b/b8/Tropic-GTAV-RSCStats.png/revision/latest?cb=20190629184848</item>
+        <item>Tropic,https://vignette.wikia.nocookie.net/gtawiki/images/b/b8/Tropic-GTAV-RSCStats.png/revision/latest?cb=20190629184848</item>
+        <item>Tug (boat),https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>
+
     </string-array>
 </resources>
