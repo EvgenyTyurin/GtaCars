@@ -1,6 +1,7 @@
 package evgenyt.gtacars.data;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import evgenyt.gtacars.utils.ResourcesLoader;
@@ -17,6 +18,7 @@ public class AppData {
             String[] itemArray = carItem.split(",");
             carList.add(new GtaCar(itemArray[0], itemArray[1]));
         }
+        Collections.sort(carList);
     }
 
     public static AppData getInstance() {

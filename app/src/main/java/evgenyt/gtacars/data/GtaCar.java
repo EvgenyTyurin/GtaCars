@@ -2,7 +2,7 @@ package evgenyt.gtacars.data;
 
 import java.util.Objects;
 
-public class GtaCar {
+public class GtaCar implements Comparable{
     private final String name;
     private final String statImage;
 
@@ -30,5 +30,11 @@ public class GtaCar {
     @Override
     public int hashCode() {
         return Objects.hash(name);
+    }
+
+    @Override
+    public int compareTo(Object o) {
+        GtaCar anotherCar = (GtaCar) o;
+        return name.compareTo(anotherCar.name);
     }
 }
