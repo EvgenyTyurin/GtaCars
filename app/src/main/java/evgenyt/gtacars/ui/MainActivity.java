@@ -56,11 +56,6 @@ public class MainActivity extends AppCompatActivity {
         carButtons[requestCode].setText(carName);
         GtaCar gtaCar = AppData.getInstance().getCarByName(carName);
         Picasso.get().load(gtaCar.getStatImage()).into(specImages[requestCode]);
-        /*
-        String imgName = ResourcesLoader.getImgName(carName);
-        specImages[requestCode].setImageDrawable(ResourcesLoader.getInstance()
-                .getImgByName(imgName));
-        */
     }
 
 }
