@@ -1,4 +1,4 @@
-package evgenyt.gtacars;
+package evgenyt.gtacars.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
+
+import com.squareup.picasso.Picasso;
+
+import evgenyt.gtacars.R;
+import evgenyt.gtacars.data.AppData;
+import evgenyt.gtacars.data.GtaCar;
+import evgenyt.gtacars.utils.ResourcesLoader;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -47,9 +54,13 @@ public class MainActivity extends AppCompatActivity {
             return;
         String carName = CarListActivity.getSelectedCar(data);
         carButtons[requestCode].setText(carName);
+        GtaCar gtaCar = AppData.getInstance().getCarByName(carName);
+        Picasso.get().load(gtaCar.getStatImage()).into(specImages[requestCode]);
+        /*
         String imgName = ResourcesLoader.getImgName(carName);
         specImages[requestCode].setImageDrawable(ResourcesLoader.getInstance()
                 .getImgByName(imgName));
+        */
     }
 
 }
