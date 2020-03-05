@@ -1,4 +1,4 @@
-package evgenyt.gtacars.ui;
+package evgenyt.lossantoscars.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,9 +14,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.util.ArrayList;
 import java.util.List;
 
-import evgenyt.gtacars.R;
-import evgenyt.gtacars.data.AppData;
-import evgenyt.gtacars.data.GtaCar;
+import evgenyt.lossantoscars.R;
+import evgenyt.lossantoscars.data.AppData;
+import evgenyt.lossantoscars.data.Car;
 
 public class CarListActivity extends AppCompatActivity {
 
@@ -26,10 +26,10 @@ public class CarListActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_carlist);
-        List<GtaCar> carList = AppData.getInstance().getCarList();
+        List<Car> carList = AppData.getInstance().getCarList();
         List<String> carNamesList = new ArrayList<>();
-        for (GtaCar gtaCar : carList) {
-            carNamesList.add(gtaCar.getName());
+        for (Car car : carList) {
+            carNamesList.add(car.getName());
         }
         final ListAdapter arrayAdapter = new ArrayAdapter<>(this,
                 R.layout.list_item, carNamesList);

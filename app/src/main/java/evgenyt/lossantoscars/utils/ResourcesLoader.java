@@ -1,4 +1,4 @@
-package evgenyt.gtacars.utils;
+package evgenyt.lossantoscars.utils;
 
 import android.content.Context;
 import android.content.res.Resources;

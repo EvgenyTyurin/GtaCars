@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GtaCars</string>
+    <string name="app_name">Los-Santos Cars</string>
     <string-array name='car_list'>
         <item>Akuma,https://vignette.wikia.nocookie.net/gtawiki/images/2/2a/Akuma-GTAV-RSCStats.png/revision/latest?cb=20160705134729</item>
         <item>Apocalypse Deathbike,https://vignette.wikia.nocookie.net/gtawiki/images/3/34/ImageGallery-Placeholder.png/revision/latest?cb=20170314193814</item>

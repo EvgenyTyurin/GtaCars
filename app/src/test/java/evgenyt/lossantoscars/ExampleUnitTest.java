@@ -1,4 +1,4 @@
-package evgenyt.gtacars;
+package evgenyt.lossantoscars;
 
 import org.junit.Test;
 

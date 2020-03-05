@@ -1,12 +1,12 @@
-package evgenyt.gtacars.data;
+package evgenyt.lossantoscars.data;
 
 import java.util.Objects;
 
-public class GtaCar implements Comparable{
+public class Car implements Comparable{
     private final String name;
     private final String statImage;
 
-    public GtaCar(String name, String statImage) {
+    public Car(String name, String statImage) {
         this.name = name;
         this.statImage = statImage;
     }
@@ -23,8 +23,8 @@ public class GtaCar implements Comparable{
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        GtaCar gtaCar = (GtaCar) o;
-        return Objects.equals(name, gtaCar.name);
+        Car car = (Car) o;
+        return Objects.equals(name, car.name);
     }
 
     @Override
@@ -34,7 +34,7 @@ public class GtaCar implements Comparable{
 
     @Override
     public int compareTo(Object o) {
-        GtaCar anotherCar = (GtaCar) o;
+        Car anotherCar = (Car) o;
         return name.compareTo(anotherCar.name);
     }
 }
